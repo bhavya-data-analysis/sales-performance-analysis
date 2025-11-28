@@ -1,0 +1,1001 @@
+order_id,date,product,category,quantity,price,total,customer_id,city,payment_method
+1000,2024-06-28,Charging Station,Accessories,3,29.99,89.97,C271,New York,Debit Card
+1001,2024-03-12,Bluetooth Speaker,Electronics,3,49.99,149.97,C189,Los Angeles,Debit Card
+1002,2024-04-12,Webcam HD,Electronics,1,39.99,39.99,C122,Los Angeles,PayPal
+1003,2024-03-15,Portable SSD 1TB,Electronics,3,89.99,269.97,C088,Seattle,PayPal
+1004,2024-04-09,Gaming Headset,Electronics,1,59.99,59.99,C152,Miami,PayPal
+1005,2024-05-29,Mechanical Keyboard,Electronics,3,79.99,239.97,C258,Seattle,Debit Card
+1006,2024-06-06,Portable SSD 1TB,Electronics,4,89.99,359.96,C294,Chicago,Debit Card
+1007,2024-01-21,Laptop Sleeve,Accessories,2,22.99,45.98,C161,Houston,Debit Card
+1008,2024-02-27,Portable SSD 1TB,Electronics,4,89.99,359.96,C022,Seattle,Credit Card
+1009,2024-03-29,USB-C Cable,Accessories,1,9.99,9.99,C049,Austin,PayPal
+1010,2024-02-28,USB-C Cable,Accessories,3,9.99,29.97,C170,New York,Credit Card
+1011,2024-01-15,LED Desk Lamp,Home,4,34.99,139.96,C190,Miami,Credit Card
+1012,2024-06-23,Laptop Sleeve,Accessories,2,22.99,45.98,C051,Houston,Cash
+1013,2024-02-24,Portable SSD 1TB,Electronics,4,89.99,359.96,C244,Houston,Cash
+1014,2024-05-10,Webcam HD,Electronics,4,39.99,159.96,C135,Los Angeles,Credit Card
+1015,2024-03-13,Charging Station,Accessories,1,29.99,29.99,C167,Seattle,Credit Card
+1016,2024-05-11,Portable SSD 1TB,Electronics,2,89.99,179.98,C089,Phoenix,Credit Card
+1017,2024-01-14,Gaming Headset,Electronics,4,59.99,239.96,C242,Los Angeles,PayPal
+1018,2024-01-09,Gaming Headset,Electronics,2,59.99,119.98,C053,Miami,Debit Card
+1019,2024-03-24,Portable SSD 1TB,Electronics,2,89.99,179.98,C092,Chicago,PayPal
+1020,2024-06-20,LED Desk Lamp,Home,3,34.99,104.97,C264,Phoenix,Debit Card
+1021,2024-02-04,Mechanical Keyboard,Electronics,3,79.99,239.97,C206,New York,Cash
+1022,2024-06-12,Charging Station,Accessories,1,29.99,29.99,C050,Houston,PayPal
+1023,2024-05-11,USB-C Cable,Accessories,4,9.99,39.96,C002,Los Angeles,Cash
+1024,2024-05-13,Laptop Sleeve,Accessories,2,22.99,45.98,C054,Miami,Cash
+1025,2024-01-04,Bluetooth Speaker,Electronics,2,49.99,99.98,C191,New York,PayPal
+1026,2024-02-13,Charging Station,Accessories,2,29.99,59.98,C162,Los Angeles,Credit Card
+1027,2024-01-14,Bluetooth Speaker,Electronics,2,49.99,99.98,C271,New York,PayPal
+1028,2024-02-09,Mechanical Keyboard,Electronics,4,79.99,319.96,C213,Houston,Credit Card
+1029,2024-03-22,Wireless Mouse,Accessories,4,15.99,63.96,C053,Los Angeles,Credit Card
+1030,2024-06-02,Mechanical Keyboard,Electronics,4,79.99,319.96,C217,Austin,Debit Card
+1031,2024-05-03,Wireless Mouse,Accessories,4,15.99,63.96,C041,Austin,PayPal
+1032,2024-01-15,LED Desk Lamp,Home,1,34.99,34.99,C065,Houston,Credit Card
+1033,2024-03-11,Gaming Headset,Electronics,1,59.99,59.99,C009,Seattle,Credit Card
+1034,2024-05-08,USB-C Cable,Accessories,4,9.99,39.96,C136,Miami,Debit Card
+1035,2024-03-03,USB-C Cable,Accessories,4,9.99,39.96,C139,Chicago,Debit Card
+1036,2024-03-21,Portable SSD 1TB,Electronics,3,89.99,269.97,C163,Miami,Debit Card
+1037,2024-02-02,Laptop Sleeve,Accessories,3,22.99,68.97,C261,Los Angeles,PayPal
+1038,2024-02-10,Laptop Sleeve,Accessories,2,22.99,45.98,C028,Chicago,PayPal
+1039,2024-03-12,Wireless Mouse,Accessories,3,15.99,47.97,C268,New York,Debit Card
+1040,2024-02-02,Mechanical Keyboard,Electronics,2,79.99,159.98,C048,Chicago,Debit Card
+1041,2024-05-30,Wireless Mouse,Accessories,3,15.99,47.97,C062,New York,PayPal
+1042,2024-02-06,Laptop Sleeve,Accessories,4,22.99,91.96,C099,New York,Credit Card
+1043,2024-04-13,Laptop Sleeve,Accessories,4,22.99,91.96,C214,Phoenix,Cash
+1044,2024-02-04,Mechanical Keyboard,Electronics,3,79.99,239.97,C227,Miami,Credit Card
+1045,2024-06-23,Charging Station,Accessories,1,29.99,29.99,C131,Chicago,Credit Card
+1046,2024-01-05,Charging Station,Accessories,1,29.99,29.99,C218,Phoenix,PayPal
+1047,2024-05-21,Gaming Headset,Electronics,3,59.99,179.97,C283,Phoenix,Debit Card
+1048,2024-01-15,Charging Station,Accessories,1,29.99,29.99,C042,Houston,Debit Card
+1049,2024-06-27,Bluetooth Speaker,Electronics,4,49.99,199.96,C063,Miami,PayPal
+1050,2024-02-21,LED Desk Lamp,Home,4,34.99,139.96,C096,Miami,PayPal
+1051,2024-05-30,Wireless Mouse,Accessories,4,15.99,63.96,C231,Houston,Cash
+1052,2024-05-22,LED Desk Lamp,Home,1,34.99,34.99,C171,Miami,PayPal
+1053,2024-02-05,Laptop Sleeve,Accessories,1,22.99,22.99,C013,Phoenix,PayPal
+1054,2024-03-11,Portable SSD 1TB,Electronics,4,89.99,359.96,C187,Miami,Cash
+1055,2024-03-26,USB-C Cable,Accessories,3,9.99,29.97,C284,Chicago,Credit Card
+1056,2024-06-18,Wireless Mouse,Accessories,2,15.99,31.98,C045,Los Angeles,PayPal
+1057,2024-05-13,Wireless Mouse,Accessories,2,15.99,31.98,C284,Miami,Cash
+1058,2024-04-17,Portable SSD 1TB,Electronics,4,89.99,359.96,C044,Chicago,Cash
+1059,2024-01-30,Wireless Mouse,Accessories,4,15.99,63.96,C128,New York,Cash
+1060,2024-04-01,Gaming Headset,Electronics,2,59.99,119.98,C231,New York,PayPal
+1061,2024-05-08,Mechanical Keyboard,Electronics,2,79.99,159.98,C283,Houston,PayPal
+1062,2024-04-30,Wireless Mouse,Accessories,2,15.99,31.98,C116,Los Angeles,Credit Card
+1063,2024-01-03,Gaming Headset,Electronics,1,59.99,59.99,C198,Miami,Cash
+1064,2024-06-03,Wireless Mouse,Accessories,4,15.99,63.96,C137,Phoenix,Credit Card
+1065,2024-06-13,LED Desk Lamp,Home,2,34.99,69.98,C225,Los Angeles,Debit Card
+1066,2024-06-20,USB-C Cable,Accessories,3,9.99,29.97,C152,Austin,Credit Card
+1067,2024-02-28,Mechanical Keyboard,Electronics,3,79.99,239.97,C160,New York,Credit Card
+1068,2024-06-28,Gaming Headset,Electronics,4,59.99,239.96,C113,Austin,PayPal
+1069,2024-02-21,Bluetooth Speaker,Electronics,2,49.99,99.98,C268,Chicago,Debit Card
+1070,2024-02-08,Bluetooth Speaker,Electronics,2,49.99,99.98,C113,Phoenix,Credit Card
+1071,2024-04-22,LED Desk Lamp,Home,1,34.99,34.99,C081,Seattle,Cash
+1072,2024-04-22,Wireless Mouse,Accessories,3,15.99,47.97,C002,Houston,Debit Card
+1073,2024-02-23,Laptop Sleeve,Accessories,2,22.99,45.98,C224,Phoenix,Credit Card
+1074,2024-05-08,Bluetooth Speaker,Electronics,1,49.99,49.99,C126,New York,Debit Card
+1075,2024-02-22,USB-C Cable,Accessories,2,9.99,19.98,C172,Chicago,PayPal
+1076,2024-06-08,Wireless Mouse,Accessories,2,15.99,31.98,C198,Miami,Credit Card
+1077,2024-03-08,Gaming Headset,Electronics,4,59.99,239.96,C203,Seattle,PayPal
+1078,2024-05-02,Mechanical Keyboard,Electronics,4,79.99,319.96,C255,Miami,Debit Card
+1079,2024-01-24,Mechanical Keyboard,Electronics,2,79.99,159.98,C098,Houston,Credit Card
+1080,2024-05-18,Gaming Headset,Electronics,2,59.99,119.98,C240,Houston,Debit Card
+1081,2024-04-06,Gaming Headset,Electronics,4,59.99,239.96,C201,Chicago,Cash
+1082,2024-03-10,Laptop Sleeve,Accessories,4,22.99,91.96,C259,Miami,Cash
+1083,2024-06-12,Bluetooth Speaker,Electronics,4,49.99,199.96,C147,Miami,PayPal
+1084,2024-04-05,LED Desk Lamp,Home,4,34.99,139.96,C199,Los Angeles,Debit Card
+1085,2024-06-09,Bluetooth Speaker,Electronics,4,49.99,199.96,C128,Los Angeles,Credit Card
+1086,2024-03-22,Wireless Mouse,Accessories,3,15.99,47.97,C129,Houston,Cash
+1087,2024-06-26,LED Desk Lamp,Home,3,34.99,104.97,C151,Chicago,Debit Card
+1088,2024-02-11,Bluetooth Speaker,Electronics,3,49.99,149.97,C099,Seattle,Credit Card
+1089,2024-05-23,Gaming Headset,Electronics,3,59.99,179.97,C112,Austin,Cash
+1090,2024-02-29,Gaming Headset,Electronics,1,59.99,59.99,C002,Los Angeles,Debit Card
+1091,2024-02-17,Wireless Mouse,Accessories,1,15.99,15.99,C254,Phoenix,Cash
+1092,2024-02-06,Webcam HD,Electronics,4,39.99,159.96,C160,Austin,PayPal
+1093,2024-01-09,Wireless Mouse,Accessories,3,15.99,47.97,C233,Phoenix,Cash
+1094,2024-05-26,Wireless Mouse,Accessories,3,15.99,47.97,C208,New York,Cash
+1095,2024-05-27,Mechanical Keyboard,Electronics,3,79.99,239.97,C152,Houston,Debit Card
+1096,2024-04-29,Charging Station,Accessories,2,29.99,59.98,C161,Seattle,PayPal
+1097,2024-04-25,Laptop Sleeve,Accessories,4,22.99,91.96,C075,Chicago,Credit Card
+1098,2024-06-12,Wireless Mouse,Accessories,1,15.99,15.99,C104,Los Angeles,Debit Card
+1099,2024-04-21,Webcam HD,Electronics,4,39.99,159.96,C099,Chicago,Debit Card
+1100,2024-04-02,Charging Station,Accessories,1,29.99,29.99,C194,New York,Cash
+1101,2024-06-11,Wireless Mouse,Accessories,2,15.99,31.98,C208,Seattle,Credit Card
+1102,2024-06-17,Bluetooth Speaker,Electronics,1,49.99,49.99,C161,New York,PayPal
+1103,2024-02-02,Wireless Mouse,Accessories,4,15.99,63.96,C277,New York,Cash
+1104,2024-05-27,Laptop Sleeve,Accessories,4,22.99,91.96,C135,Miami,Debit Card
+1105,2024-05-24,USB-C Cable,Accessories,3,9.99,29.97,C128,New York,Cash
+1106,2024-06-24,USB-C Cable,Accessories,1,9.99,9.99,C022,Miami,Credit Card
+1107,2024-06-06,LED Desk Lamp,Home,2,34.99,69.98,C038,Austin,Debit Card
+1108,2024-04-18,Gaming Headset,Electronics,2,59.99,119.98,C051,Chicago,Cash
+1109,2024-01-08,Bluetooth Speaker,Electronics,2,49.99,99.98,C283,Houston,PayPal
+1110,2024-01-21,Gaming Headset,Electronics,3,59.99,179.97,C286,New York,PayPal
+1111,2024-01-28,Charging Station,Accessories,1,29.99,29.99,C147,Austin,Cash
+1112,2024-02-04,Portable SSD 1TB,Electronics,4,89.99,359.96,C192,Seattle,Debit Card
+1113,2024-01-17,Bluetooth Speaker,Electronics,1,49.99,49.99,C172,Houston,PayPal
+1114,2024-06-06,Portable SSD 1TB,Electronics,4,89.99,359.96,C046,Seattle,PayPal
+1115,2024-01-06,Charging Station,Accessories,1,29.99,29.99,C099,Los Angeles,Credit Card
+1116,2024-02-06,LED Desk Lamp,Home,4,34.99,139.96,C280,Phoenix,Credit Card
+1117,2024-02-15,Mechanical Keyboard,Electronics,1,79.99,79.99,C181,New York,Credit Card
+1118,2024-04-08,Portable SSD 1TB,Electronics,3,89.99,269.97,C188,New York,PayPal
+1119,2024-04-25,Mechanical Keyboard,Electronics,1,79.99,79.99,C191,Austin,Credit Card
+1120,2024-06-08,Webcam HD,Electronics,1,39.99,39.99,C161,Miami,Debit Card
+1121,2024-03-07,Gaming Headset,Electronics,4,59.99,239.96,C128,Seattle,Debit Card
+1122,2024-01-25,Gaming Headset,Electronics,2,59.99,119.98,C223,Chicago,Cash
+1123,2024-02-27,Charging Station,Accessories,2,29.99,59.98,C174,Houston,Credit Card
+1124,2024-04-23,Charging Station,Accessories,4,29.99,119.96,C288,New York,PayPal
+1125,2024-03-26,Laptop Sleeve,Accessories,3,22.99,68.97,C151,Seattle,Debit Card
+1126,2024-05-06,Webcam HD,Electronics,2,39.99,79.98,C155,New York,Cash
+1127,2024-05-09,Portable SSD 1TB,Electronics,2,89.99,179.98,C273,Phoenix,PayPal
+1128,2024-06-09,Webcam HD,Electronics,4,39.99,159.96,C299,Austin,PayPal
+1129,2024-06-24,Bluetooth Speaker,Electronics,2,49.99,99.98,C039,Miami,Credit Card
+1130,2024-06-18,Bluetooth Speaker,Electronics,1,49.99,49.99,C247,New York,Debit Card
+1131,2024-04-08,LED Desk Lamp,Home,2,34.99,69.98,C013,Houston,Credit Card
+1132,2024-05-14,Charging Station,Accessories,4,29.99,119.96,C036,New York,PayPal
+1133,2024-01-20,Portable SSD 1TB,Electronics,1,89.99,89.99,C264,Austin,PayPal
+1134,2024-05-23,Mechanical Keyboard,Electronics,4,79.99,319.96,C142,Houston,Credit Card
+1135,2024-04-24,Bluetooth Speaker,Electronics,4,49.99,199.96,C143,Chicago,Debit Card
+1136,2024-04-07,Mechanical Keyboard,Electronics,4,79.99,319.96,C288,Los Angeles,Credit Card
+1137,2024-03-26,Charging Station,Accessories,3,29.99,89.97,C051,Los Angeles,PayPal
+1138,2024-03-03,USB-C Cable,Accessories,1,9.99,9.99,C190,Chicago,PayPal
+1139,2024-05-29,Webcam HD,Electronics,1,39.99,39.99,C058,Seattle,Cash
+1140,2024-02-18,USB-C Cable,Accessories,2,9.99,19.98,C180,Phoenix,PayPal
+1141,2024-03-10,Bluetooth Speaker,Electronics,2,49.99,99.98,C271,New York,Debit Card
+1142,2024-04-10,Charging Station,Accessories,2,29.99,59.98,C264,Houston,Debit Card
+1143,2024-02-29,Portable SSD 1TB,Electronics,1,89.99,89.99,C108,Austin,Cash
+1144,2024-04-12,Portable SSD 1TB,Electronics,1,89.99,89.99,C196,Miami,Cash
+1145,2024-04-18,Webcam HD,Electronics,2,39.99,79.98,C047,Chicago,Cash
+1146,2024-02-24,Bluetooth Speaker,Electronics,3,49.99,149.97,C144,Houston,PayPal
+1147,2024-04-23,LED Desk Lamp,Home,1,34.99,34.99,C124,Phoenix,Debit Card
+1148,2024-06-06,LED Desk Lamp,Home,2,34.99,69.98,C147,Los Angeles,Credit Card
+1149,2024-04-29,LED Desk Lamp,Home,1,34.99,34.99,C275,Phoenix,PayPal
+1150,2024-02-27,Portable SSD 1TB,Electronics,4,89.99,359.96,C229,Miami,Cash
+1151,2024-04-26,Gaming Headset,Electronics,2,59.99,119.98,C279,Houston,Credit Card
+1152,2024-05-16,Wireless Mouse,Accessories,3,15.99,47.97,C129,Los Angeles,PayPal
+1153,2024-05-01,Webcam HD,Electronics,2,39.99,79.98,C001,New York,Debit Card
+1154,2024-02-03,Webcam HD,Electronics,3,39.99,119.97,C096,Miami,PayPal
+1155,2024-04-27,Wireless Mouse,Accessories,2,15.99,31.98,C048,Seattle,Credit Card
+1156,2024-04-26,LED Desk Lamp,Home,1,34.99,34.99,C272,Houston,Credit Card
+1157,2024-03-09,Charging Station,Accessories,1,29.99,29.99,C278,Austin,Debit Card
+1158,2024-03-16,USB-C Cable,Accessories,1,9.99,9.99,C154,Los Angeles,Credit Card
+1159,2024-06-27,Bluetooth Speaker,Electronics,4,49.99,199.96,C086,Chicago,Credit Card
+1160,2024-01-29,USB-C Cable,Accessories,1,9.99,9.99,C220,New York,PayPal
+1161,2024-02-16,USB-C Cable,Accessories,1,9.99,9.99,C094,Miami,Debit Card
+1162,2024-05-23,Gaming Headset,Electronics,2,59.99,119.98,C218,New York,PayPal
+1163,2024-06-24,Portable SSD 1TB,Electronics,2,89.99,179.98,C039,New York,Cash
+1164,2024-02-02,Webcam HD,Electronics,4,39.99,159.96,C254,Los Angeles,PayPal
+1165,2024-04-10,Charging Station,Accessories,2,29.99,59.98,C023,Seattle,Cash
+1166,2024-01-10,USB-C Cable,Accessories,2,9.99,19.98,C246,Austin,Cash
+1167,2024-04-09,Bluetooth Speaker,Electronics,1,49.99,49.99,C290,New York,Cash
+1168,2024-05-17,LED Desk Lamp,Home,4,34.99,139.96,C250,Phoenix,Credit Card
+1169,2024-04-05,Wireless Mouse,Accessories,3,15.99,47.97,C257,Chicago,Debit Card
+1170,2024-03-09,LED Desk Lamp,Home,4,34.99,139.96,C004,Seattle,Debit Card
+1171,2024-01-24,Portable SSD 1TB,Electronics,4,89.99,359.96,C247,Austin,Credit Card
+1172,2024-05-07,Laptop Sleeve,Accessories,2,22.99,45.98,C160,Los Angeles,PayPal
+1173,2024-03-24,Laptop Sleeve,Accessories,3,22.99,68.97,C152,Chicago,Credit Card
+1174,2024-06-26,Bluetooth Speaker,Electronics,4,49.99,199.96,C163,Phoenix,PayPal
+1175,2024-02-02,Gaming Headset,Electronics,4,59.99,239.96,C179,Los Angeles,Cash
+1176,2024-04-10,Wireless Mouse,Accessories,3,15.99,47.97,C268,Chicago,Debit Card
+1177,2024-03-05,Portable SSD 1TB,Electronics,3,89.99,269.97,C168,Los Angeles,Credit Card
+1178,2024-02-12,USB-C Cable,Accessories,2,9.99,19.98,C044,New York,PayPal
+1179,2024-05-20,USB-C Cable,Accessories,1,9.99,9.99,C012,Phoenix,Cash
+1180,2024-02-15,USB-C Cable,Accessories,3,9.99,29.97,C253,Chicago,Credit Card
+1181,2024-02-04,Laptop Sleeve,Accessories,3,22.99,68.97,C215,Miami,Cash
+1182,2024-03-30,Bluetooth Speaker,Electronics,1,49.99,49.99,C264,Miami,PayPal
+1183,2024-06-02,Gaming Headset,Electronics,1,59.99,59.99,C090,New York,PayPal
+1184,2024-06-10,Charging Station,Accessories,2,29.99,59.98,C115,Phoenix,Debit Card
+1185,2024-05-14,Wireless Mouse,Accessories,1,15.99,15.99,C196,Los Angeles,Cash
+1186,2024-04-23,LED Desk Lamp,Home,2,34.99,69.98,C075,Houston,Credit Card
+1187,2024-04-29,Webcam HD,Electronics,1,39.99,39.99,C217,New York,Cash
+1188,2024-06-12,LED Desk Lamp,Home,1,34.99,34.99,C192,Miami,Debit Card
+1189,2024-06-25,Bluetooth Speaker,Electronics,3,49.99,149.97,C099,New York,Cash
+1190,2024-02-05,Portable SSD 1TB,Electronics,4,89.99,359.96,C096,Houston,Credit Card
+1191,2024-05-30,Charging Station,Accessories,4,29.99,119.96,C190,Miami,Debit Card
+1192,2024-02-06,LED Desk Lamp,Home,4,34.99,139.96,C268,Los Angeles,PayPal
+1193,2024-01-13,Portable SSD 1TB,Electronics,1,89.99,89.99,C279,Seattle,Credit Card
+1194,2024-04-08,Webcam HD,Electronics,1,39.99,39.99,C286,Los Angeles,PayPal
+1195,2024-04-22,Webcam HD,Electronics,1,39.99,39.99,C062,Austin,Debit Card
+1196,2024-04-21,LED Desk Lamp,Home,4,34.99,139.96,C217,Miami,Debit Card
+1197,2024-05-20,Laptop Sleeve,Accessories,2,22.99,45.98,C187,New York,PayPal
+1198,2024-06-25,Gaming Headset,Electronics,3,59.99,179.97,C100,New York,Cash
+1199,2024-05-26,Charging Station,Accessories,4,29.99,119.96,C076,Los Angeles,Credit Card
+1200,2024-01-28,LED Desk Lamp,Home,1,34.99,34.99,C206,Los Angeles,PayPal
+1201,2024-05-07,Mechanical Keyboard,Electronics,3,79.99,239.97,C052,Los Angeles,Debit Card
+1202,2024-04-20,Webcam HD,Electronics,3,39.99,119.97,C144,Seattle,Credit Card
+1203,2024-03-09,Webcam HD,Electronics,1,39.99,39.99,C099,Miami,Cash
+1204,2024-01-25,Charging Station,Accessories,4,29.99,119.96,C053,Los Angeles,PayPal
+1205,2024-05-23,USB-C Cable,Accessories,3,9.99,29.97,C057,Austin,Cash
+1206,2024-04-18,LED Desk Lamp,Home,3,34.99,104.97,C181,Chicago,Credit Card
+1207,2024-06-15,Laptop Sleeve,Accessories,2,22.99,45.98,C223,Austin,Credit Card
+1208,2024-05-12,Laptop Sleeve,Accessories,2,22.99,45.98,C163,Seattle,Cash
+1209,2024-03-15,Laptop Sleeve,Accessories,3,22.99,68.97,C146,Los Angeles,Cash
+1210,2024-03-16,Charging Station,Accessories,3,29.99,89.97,C009,Houston,Cash
+1211,2024-05-24,Mechanical Keyboard,Electronics,2,79.99,159.98,C253,Chicago,PayPal
+1212,2024-01-07,Bluetooth Speaker,Electronics,2,49.99,99.98,C174,Houston,Credit Card
+1213,2024-06-16,Mechanical Keyboard,Electronics,1,79.99,79.99,C170,New York,PayPal
+1214,2024-06-26,Gaming Headset,Electronics,1,59.99,59.99,C283,Houston,Credit Card
+1215,2024-01-05,Bluetooth Speaker,Electronics,2,49.99,99.98,C029,Seattle,Debit Card
+1216,2024-06-14,USB-C Cable,Accessories,1,9.99,9.99,C136,Chicago,PayPal
+1217,2024-04-18,Gaming Headset,Electronics,4,59.99,239.96,C145,Houston,Credit Card
+1218,2024-03-11,LED Desk Lamp,Home,3,34.99,104.97,C217,Seattle,Cash
+1219,2024-05-11,Gaming Headset,Electronics,1,59.99,59.99,C292,Los Angeles,PayPal
+1220,2024-06-07,Charging Station,Accessories,2,29.99,59.98,C275,Houston,Credit Card
+1221,2024-04-17,Mechanical Keyboard,Electronics,1,79.99,79.99,C182,Los Angeles,Credit Card
+1222,2024-03-31,Portable SSD 1TB,Electronics,3,89.99,269.97,C202,Miami,Cash
+1223,2024-01-19,Portable SSD 1TB,Electronics,2,89.99,179.98,C039,Austin,Credit Card
+1224,2024-06-21,Charging Station,Accessories,2,29.99,59.98,C141,Phoenix,Cash
+1225,2024-05-05,Portable SSD 1TB,Electronics,2,89.99,179.98,C058,New York,PayPal
+1226,2024-03-01,Webcam HD,Electronics,4,39.99,159.96,C001,Seattle,PayPal
+1227,2024-04-01,Laptop Sleeve,Accessories,3,22.99,68.97,C190,Los Angeles,Cash
+1228,2024-04-22,Portable SSD 1TB,Electronics,1,89.99,89.99,C117,Houston,Debit Card
+1229,2024-02-27,Wireless Mouse,Accessories,2,15.99,31.98,C044,New York,Cash
+1230,2024-06-08,USB-C Cable,Accessories,1,9.99,9.99,C173,Austin,Credit Card
+1231,2024-02-16,Gaming Headset,Electronics,1,59.99,59.99,C149,Phoenix,Debit Card
+1232,2024-04-27,USB-C Cable,Accessories,4,9.99,39.96,C213,Miami,Debit Card
+1233,2024-06-12,Mechanical Keyboard,Electronics,3,79.99,239.97,C227,Austin,Credit Card
+1234,2024-01-20,Portable SSD 1TB,Electronics,3,89.99,269.97,C047,Austin,Cash
+1235,2024-02-18,Laptop Sleeve,Accessories,1,22.99,22.99,C014,Chicago,PayPal
+1236,2024-06-07,Bluetooth Speaker,Electronics,3,49.99,149.97,C001,Miami,Cash
+1237,2024-02-23,Portable SSD 1TB,Electronics,1,89.99,89.99,C259,Miami,Credit Card
+1238,2024-01-12,Charging Station,Accessories,4,29.99,119.96,C224,Miami,Debit Card
+1239,2024-04-11,Laptop Sleeve,Accessories,4,22.99,91.96,C156,Phoenix,Debit Card
+1240,2024-01-08,Mechanical Keyboard,Electronics,1,79.99,79.99,C122,Miami,Cash
+1241,2024-06-12,Webcam HD,Electronics,4,39.99,159.96,C090,Austin,Debit Card
+1242,2024-02-29,Webcam HD,Electronics,4,39.99,159.96,C178,Los Angeles,PayPal
+1243,2024-04-10,Bluetooth Speaker,Electronics,4,49.99,199.96,C041,Phoenix,Cash
+1244,2024-06-03,Webcam HD,Electronics,4,39.99,159.96,C145,Chicago,Debit Card
+1245,2024-06-09,Webcam HD,Electronics,1,39.99,39.99,C212,Austin,Cash
+1246,2024-06-05,LED Desk Lamp,Home,1,34.99,34.99,C046,Los Angeles,Credit Card
+1247,2024-05-13,Laptop Sleeve,Accessories,3,22.99,68.97,C082,Chicago,Cash
+1248,2024-02-16,USB-C Cable,Accessories,3,9.99,29.97,C010,Los Angeles,Debit Card
+1249,2024-01-30,Webcam HD,Electronics,4,39.99,159.96,C242,New York,PayPal
+1250,2024-04-18,Gaming Headset,Electronics,3,59.99,179.97,C005,Miami,Cash
+1251,2024-02-02,Wireless Mouse,Accessories,3,15.99,47.97,C065,Austin,Credit Card
+1252,2024-06-25,Portable SSD 1TB,Electronics,2,89.99,179.98,C267,Austin,Cash
+1253,2024-01-26,Mechanical Keyboard,Electronics,1,79.99,79.99,C063,Phoenix,PayPal
+1254,2024-03-26,Bluetooth Speaker,Electronics,1,49.99,49.99,C283,Austin,PayPal
+1255,2024-06-09,Mechanical Keyboard,Electronics,1,79.99,79.99,C098,Austin,Credit Card
+1256,2024-04-08,Bluetooth Speaker,Electronics,1,49.99,49.99,C006,Los Angeles,PayPal
+1257,2024-04-04,Bluetooth Speaker,Electronics,4,49.99,199.96,C133,Seattle,Cash
+1258,2024-01-03,Wireless Mouse,Accessories,2,15.99,31.98,C023,Houston,Cash
+1259,2024-02-22,Gaming Headset,Electronics,1,59.99,59.99,C165,Houston,Debit Card
+1260,2024-03-23,Wireless Mouse,Accessories,2,15.99,31.98,C145,Phoenix,Debit Card
+1261,2024-03-18,Portable SSD 1TB,Electronics,1,89.99,89.99,C001,Seattle,PayPal
+1262,2024-06-21,LED Desk Lamp,Home,3,34.99,104.97,C205,Austin,Debit Card
+1263,2024-04-22,LED Desk Lamp,Home,4,34.99,139.96,C288,Phoenix,Credit Card
+1264,2024-04-01,Gaming Headset,Electronics,2,59.99,119.98,C095,Houston,Cash
+1265,2024-02-08,LED Desk Lamp,Home,4,34.99,139.96,C154,New York,Debit Card
+1266,2024-06-10,LED Desk Lamp,Home,2,34.99,69.98,C118,Chicago,PayPal
+1267,2024-05-02,USB-C Cable,Accessories,3,9.99,29.97,C268,Houston,Cash
+1268,2024-02-23,LED Desk Lamp,Home,1,34.99,34.99,C236,Phoenix,PayPal
+1269,2024-02-26,Gaming Headset,Electronics,1,59.99,59.99,C112,Austin,Cash
+1270,2024-02-16,Mechanical Keyboard,Electronics,3,79.99,239.97,C207,Chicago,PayPal
+1271,2024-03-25,Wireless Mouse,Accessories,1,15.99,15.99,C066,Seattle,Debit Card
+1272,2024-06-27,Gaming Headset,Electronics,3,59.99,179.97,C103,Los Angeles,Debit Card
+1273,2024-02-07,Bluetooth Speaker,Electronics,2,49.99,99.98,C098,Los Angeles,Credit Card
+1274,2024-01-30,Laptop Sleeve,Accessories,2,22.99,45.98,C249,Miami,Credit Card
+1275,2024-03-19,Laptop Sleeve,Accessories,2,22.99,45.98,C030,Seattle,Debit Card
+1276,2024-04-15,Bluetooth Speaker,Electronics,3,49.99,149.97,C051,Miami,Credit Card
+1277,2024-05-12,Charging Station,Accessories,1,29.99,29.99,C285,Seattle,PayPal
+1278,2024-05-17,USB-C Cable,Accessories,4,9.99,39.96,C184,Austin,Cash
+1279,2024-03-14,USB-C Cable,Accessories,1,9.99,9.99,C273,Seattle,Cash
+1280,2024-03-24,Mechanical Keyboard,Electronics,4,79.99,319.96,C069,Miami,PayPal
+1281,2024-01-06,Gaming Headset,Electronics,2,59.99,119.98,C053,Miami,PayPal
+1282,2024-05-05,Charging Station,Accessories,2,29.99,59.98,C235,Los Angeles,Debit Card
+1283,2024-04-24,Portable SSD 1TB,Electronics,3,89.99,269.97,C111,Seattle,PayPal
+1284,2024-05-30,Wireless Mouse,Accessories,1,15.99,15.99,C183,Chicago,Credit Card
+1285,2024-04-04,Portable SSD 1TB,Electronics,4,89.99,359.96,C008,Seattle,PayPal
+1286,2024-04-13,Wireless Mouse,Accessories,4,15.99,63.96,C184,New York,Credit Card
+1287,2024-04-05,Bluetooth Speaker,Electronics,1,49.99,49.99,C195,Houston,Debit Card
+1288,2024-04-02,LED Desk Lamp,Home,3,34.99,104.97,C160,Seattle,PayPal
+1289,2024-03-01,Webcam HD,Electronics,2,39.99,79.98,C122,New York,Credit Card
+1290,2024-05-26,Laptop Sleeve,Accessories,3,22.99,68.97,C277,Houston,Debit Card
+1291,2024-04-01,Gaming Headset,Electronics,1,59.99,59.99,C170,Seattle,Cash
+1292,2024-01-22,Portable SSD 1TB,Electronics,1,89.99,89.99,C001,New York,Debit Card
+1293,2024-01-12,LED Desk Lamp,Home,1,34.99,34.99,C046,Miami,Debit Card
+1294,2024-06-25,Wireless Mouse,Accessories,2,15.99,31.98,C078,Austin,Credit Card
+1295,2024-02-14,Gaming Headset,Electronics,2,59.99,119.98,C073,Los Angeles,Credit Card
+1296,2024-02-16,Wireless Mouse,Accessories,2,15.99,31.98,C121,Miami,Cash
+1297,2024-02-25,Laptop Sleeve,Accessories,2,22.99,45.98,C107,New York,Debit Card
+1298,2024-02-17,Charging Station,Accessories,3,29.99,89.97,C061,Chicago,PayPal
+1299,2024-01-26,Mechanical Keyboard,Electronics,1,79.99,79.99,C292,Miami,Credit Card
+1300,2024-01-08,Laptop Sleeve,Accessories,1,22.99,22.99,C113,New York,Credit Card
+1301,2024-06-28,Bluetooth Speaker,Electronics,3,49.99,149.97,C207,New York,Credit Card
+1302,2024-05-06,Bluetooth Speaker,Electronics,3,49.99,149.97,C056,Miami,Debit Card
+1303,2024-01-14,Laptop Sleeve,Accessories,2,22.99,45.98,C028,Miami,PayPal
+1304,2024-03-18,Gaming Headset,Electronics,3,59.99,179.97,C216,Austin,Debit Card
+1305,2024-04-18,Mechanical Keyboard,Electronics,2,79.99,159.98,C154,Seattle,Cash
+1306,2024-02-25,USB-C Cable,Accessories,2,9.99,19.98,C007,Phoenix,Debit Card
+1307,2024-04-20,Laptop Sleeve,Accessories,3,22.99,68.97,C238,New York,PayPal
+1308,2024-01-18,USB-C Cable,Accessories,3,9.99,29.97,C294,Los Angeles,Credit Card
+1309,2024-04-24,LED Desk Lamp,Home,3,34.99,104.97,C015,New York,Credit Card
+1310,2024-04-28,Laptop Sleeve,Accessories,4,22.99,91.96,C028,Houston,Credit Card
+1311,2024-02-08,Mechanical Keyboard,Electronics,2,79.99,159.98,C273,Miami,Credit Card
+1312,2024-03-26,LED Desk Lamp,Home,3,34.99,104.97,C126,Miami,Credit Card
+1313,2024-01-25,Charging Station,Accessories,4,29.99,119.96,C145,Los Angeles,Debit Card
+1314,2024-01-25,USB-C Cable,Accessories,1,9.99,9.99,C068,Seattle,Cash
+1315,2024-03-07,Laptop Sleeve,Accessories,2,22.99,45.98,C233,Austin,Debit Card
+1316,2024-05-25,Charging Station,Accessories,1,29.99,29.99,C111,New York,Credit Card
+1317,2024-04-20,Mechanical Keyboard,Electronics,4,79.99,319.96,C034,Austin,PayPal
+1318,2024-01-08,Laptop Sleeve,Accessories,3,22.99,68.97,C236,Austin,Debit Card
+1319,2024-02-11,Portable SSD 1TB,Electronics,3,89.99,269.97,C101,Austin,Debit Card
+1320,2024-06-28,Mechanical Keyboard,Electronics,2,79.99,159.98,C282,Phoenix,PayPal
+1321,2024-02-28,USB-C Cable,Accessories,4,9.99,39.96,C229,Phoenix,PayPal
+1322,2024-02-02,Portable SSD 1TB,Electronics,1,89.99,89.99,C150,Miami,PayPal
+1323,2024-03-10,Laptop Sleeve,Accessories,1,22.99,22.99,C112,Austin,PayPal
+1324,2024-04-03,LED Desk Lamp,Home,4,34.99,139.96,C095,Austin,PayPal
+1325,2024-02-24,USB-C Cable,Accessories,4,9.99,39.96,C137,Houston,Cash
+1326,2024-05-10,Wireless Mouse,Accessories,3,15.99,47.97,C243,Seattle,Credit Card
+1327,2024-02-09,Laptop Sleeve,Accessories,3,22.99,68.97,C229,Miami,PayPal
+1328,2024-05-31,Wireless Mouse,Accessories,4,15.99,63.96,C223,Miami,Cash
+1329,2024-03-06,Portable SSD 1TB,Electronics,2,89.99,179.98,C220,Austin,PayPal
+1330,2024-01-04,Charging Station,Accessories,3,29.99,89.97,C134,Austin,Cash
+1331,2024-04-22,Portable SSD 1TB,Electronics,2,89.99,179.98,C094,Chicago,Debit Card
+1332,2024-06-27,Charging Station,Accessories,4,29.99,119.96,C062,Austin,PayPal
+1333,2024-03-19,Laptop Sleeve,Accessories,1,22.99,22.99,C203,Los Angeles,Credit Card
+1334,2024-01-26,Laptop Sleeve,Accessories,4,22.99,91.96,C173,Austin,Debit Card
+1335,2024-05-12,Gaming Headset,Electronics,4,59.99,239.96,C118,Houston,Debit Card
+1336,2024-01-19,Webcam HD,Electronics,4,39.99,159.96,C212,Houston,Debit Card
+1337,2024-01-20,USB-C Cable,Accessories,1,9.99,9.99,C113,Chicago,Debit Card
+1338,2024-02-16,Charging Station,Accessories,4,29.99,119.96,C001,Houston,Cash
+1339,2024-05-21,Webcam HD,Electronics,2,39.99,79.98,C038,Chicago,Cash
+1340,2024-05-05,Webcam HD,Electronics,1,39.99,39.99,C139,New York,Credit Card
+1341,2024-04-09,Charging Station,Accessories,3,29.99,89.97,C259,Austin,Cash
+1342,2024-05-13,Mechanical Keyboard,Electronics,1,79.99,79.99,C178,Chicago,Cash
+1343,2024-01-10,Webcam HD,Electronics,4,39.99,159.96,C261,Houston,PayPal
+1344,2024-05-17,Bluetooth Speaker,Electronics,3,49.99,149.97,C172,New York,Credit Card
+1345,2024-01-13,USB-C Cable,Accessories,2,9.99,19.98,C168,Phoenix,Debit Card
+1346,2024-03-24,Webcam HD,Electronics,2,39.99,79.98,C101,Miami,PayPal
+1347,2024-01-17,Charging Station,Accessories,1,29.99,29.99,C265,New York,PayPal
+1348,2024-05-22,USB-C Cable,Accessories,3,9.99,29.97,C038,Houston,Credit Card
+1349,2024-06-11,Portable SSD 1TB,Electronics,3,89.99,269.97,C094,Houston,PayPal
+1350,2024-02-18,Bluetooth Speaker,Electronics,3,49.99,149.97,C069,Chicago,Cash
+1351,2024-06-26,Charging Station,Accessories,2,29.99,59.98,C137,Los Angeles,Cash
+1352,2024-03-16,Bluetooth Speaker,Electronics,2,49.99,99.98,C035,Chicago,Cash
+1353,2024-02-09,Charging Station,Accessories,1,29.99,29.99,C060,Austin,Credit Card
+1354,2024-04-02,Bluetooth Speaker,Electronics,4,49.99,199.96,C267,Miami,PayPal
+1355,2024-01-14,Laptop Sleeve,Accessories,1,22.99,22.99,C286,Houston,Credit Card
+1356,2024-06-13,Portable SSD 1TB,Electronics,3,89.99,269.97,C005,Austin,Cash
+1357,2024-05-02,Wireless Mouse,Accessories,3,15.99,47.97,C078,New York,PayPal
+1358,2024-03-02,Laptop Sleeve,Accessories,2,22.99,45.98,C132,New York,Cash
+1359,2024-02-11,USB-C Cable,Accessories,1,9.99,9.99,C089,Austin,PayPal
+1360,2024-02-09,Wireless Mouse,Accessories,2,15.99,31.98,C295,New York,Debit Card
+1361,2024-01-14,LED Desk Lamp,Home,4,34.99,139.96,C288,Miami,Credit Card
+1362,2024-05-04,Laptop Sleeve,Accessories,3,22.99,68.97,C023,Seattle,PayPal
+1363,2024-05-22,Gaming Headset,Electronics,3,59.99,179.97,C153,Phoenix,Cash
+1364,2024-02-22,Gaming Headset,Electronics,1,59.99,59.99,C104,Miami,Credit Card
+1365,2024-06-27,Laptop Sleeve,Accessories,4,22.99,91.96,C039,Houston,PayPal
+1366,2024-05-13,USB-C Cable,Accessories,3,9.99,29.97,C067,Chicago,Credit Card
+1367,2024-06-27,USB-C Cable,Accessories,3,9.99,29.97,C042,Austin,Debit Card
+1368,2024-01-15,USB-C Cable,Accessories,4,9.99,39.96,C111,Chicago,Credit Card
+1369,2024-02-02,Wireless Mouse,Accessories,1,15.99,15.99,C231,Austin,Cash
+1370,2024-06-12,Portable SSD 1TB,Electronics,3,89.99,269.97,C157,Chicago,Credit Card
+1371,2024-04-06,Mechanical Keyboard,Electronics,2,79.99,159.98,C289,New York,Debit Card
+1372,2024-03-26,Laptop Sleeve,Accessories,2,22.99,45.98,C010,Phoenix,Debit Card
+1373,2024-05-02,USB-C Cable,Accessories,1,9.99,9.99,C118,Houston,Debit Card
+1374,2024-05-20,LED Desk Lamp,Home,2,34.99,69.98,C159,Austin,Cash
+1375,2024-04-18,Portable SSD 1TB,Electronics,3,89.99,269.97,C216,Houston,Debit Card
+1376,2024-01-15,LED Desk Lamp,Home,4,34.99,139.96,C157,Miami,Debit Card
+1377,2024-01-05,Gaming Headset,Electronics,4,59.99,239.96,C157,Seattle,Cash
+1378,2024-03-08,Webcam HD,Electronics,3,39.99,119.97,C173,Houston,Cash
+1379,2024-06-03,Bluetooth Speaker,Electronics,2,49.99,99.98,C095,Chicago,Credit Card
+1380,2024-06-12,Wireless Mouse,Accessories,3,15.99,47.97,C292,Austin,Debit Card
+1381,2024-02-12,Bluetooth Speaker,Electronics,2,49.99,99.98,C283,Chicago,PayPal
+1382,2024-05-27,Charging Station,Accessories,1,29.99,29.99,C011,Chicago,PayPal
+1383,2024-03-14,Bluetooth Speaker,Electronics,2,49.99,99.98,C038,Austin,Cash
+1384,2024-01-23,Bluetooth Speaker,Electronics,2,49.99,99.98,C218,Chicago,Debit Card
+1385,2024-04-13,Bluetooth Speaker,Electronics,1,49.99,49.99,C210,Chicago,PayPal
+1386,2024-04-20,Charging Station,Accessories,1,29.99,29.99,C104,Austin,PayPal
+1387,2024-06-19,Portable SSD 1TB,Electronics,4,89.99,359.96,C133,Chicago,Credit Card
+1388,2024-02-06,Charging Station,Accessories,4,29.99,119.96,C127,Miami,Credit Card
+1389,2024-04-01,Portable SSD 1TB,Electronics,2,89.99,179.98,C287,Austin,Cash
+1390,2024-05-16,Gaming Headset,Electronics,2,59.99,119.98,C051,Seattle,Cash
+1391,2024-02-09,Bluetooth Speaker,Electronics,1,49.99,49.99,C297,Chicago,Credit Card
+1392,2024-01-11,LED Desk Lamp,Home,2,34.99,69.98,C257,Los Angeles,Cash
+1393,2024-04-10,Mechanical Keyboard,Electronics,2,79.99,159.98,C110,Seattle,Debit Card
+1394,2024-02-26,Bluetooth Speaker,Electronics,4,49.99,199.96,C001,Seattle,Debit Card
+1395,2024-02-24,Wireless Mouse,Accessories,3,15.99,47.97,C149,Houston,PayPal
+1396,2024-02-22,USB-C Cable,Accessories,3,9.99,29.97,C137,Houston,Credit Card
+1397,2024-06-28,USB-C Cable,Accessories,2,9.99,19.98,C117,Austin,Debit Card
+1398,2024-06-17,LED Desk Lamp,Home,2,34.99,69.98,C291,Los Angeles,Debit Card
+1399,2024-01-25,LED Desk Lamp,Home,3,34.99,104.97,C090,Chicago,Credit Card
+1400,2024-02-07,Portable SSD 1TB,Electronics,3,89.99,269.97,C210,Chicago,Credit Card
+1401,2024-06-10,Portable SSD 1TB,Electronics,3,89.99,269.97,C017,Phoenix,Cash
+1402,2024-06-19,USB-C Cable,Accessories,4,9.99,39.96,C251,Phoenix,Cash
+1403,2024-05-31,Wireless Mouse,Accessories,3,15.99,47.97,C025,Los Angeles,Credit Card
+1404,2024-06-28,Portable SSD 1TB,Electronics,3,89.99,269.97,C198,Austin,PayPal
+1405,2024-03-28,Bluetooth Speaker,Electronics,1,49.99,49.99,C161,Phoenix,PayPal
+1406,2024-01-29,USB-C Cable,Accessories,1,9.99,9.99,C063,Seattle,Credit Card
+1407,2024-05-29,Wireless Mouse,Accessories,3,15.99,47.97,C154,Miami,Cash
+1408,2024-04-23,Portable SSD 1TB,Electronics,4,89.99,359.96,C049,Los Angeles,PayPal
+1409,2024-03-21,Mechanical Keyboard,Electronics,3,79.99,239.97,C084,Chicago,Cash
+1410,2024-06-25,Portable SSD 1TB,Electronics,1,89.99,89.99,C148,Seattle,Cash
+1411,2024-03-26,Charging Station,Accessories,2,29.99,59.98,C063,Miami,Credit Card
+1412,2024-04-13,USB-C Cable,Accessories,1,9.99,9.99,C049,Austin,Credit Card
+1413,2024-01-01,Laptop Sleeve,Accessories,3,22.99,68.97,C224,Austin,Debit Card
+1414,2024-06-27,Portable SSD 1TB,Electronics,1,89.99,89.99,C211,Los Angeles,Cash
+1415,2024-02-01,Laptop Sleeve,Accessories,2,22.99,45.98,C158,New York,Credit Card
+1416,2024-02-18,USB-C Cable,Accessories,1,9.99,9.99,C286,Chicago,Cash
+1417,2024-06-16,Wireless Mouse,Accessories,4,15.99,63.96,C019,Seattle,Cash
+1418,2024-01-01,Charging Station,Accessories,2,29.99,59.98,C078,New York,Credit Card
+1419,2024-06-23,LED Desk Lamp,Home,3,34.99,104.97,C194,Miami,Cash
+1420,2024-04-22,Webcam HD,Electronics,2,39.99,79.98,C114,New York,Debit Card
+1421,2024-06-14,LED Desk Lamp,Home,2,34.99,69.98,C132,New York,Cash
+1422,2024-01-08,Webcam HD,Electronics,1,39.99,39.99,C055,Houston,Cash
+1423,2024-05-10,Webcam HD,Electronics,3,39.99,119.97,C288,Chicago,Credit Card
+1424,2024-04-19,Webcam HD,Electronics,2,39.99,79.98,C162,Chicago,PayPal
+1425,2024-03-27,Portable SSD 1TB,Electronics,4,89.99,359.96,C055,Miami,Credit Card
+1426,2024-02-01,Webcam HD,Electronics,4,39.99,159.96,C178,Phoenix,Credit Card
+1427,2024-04-02,LED Desk Lamp,Home,3,34.99,104.97,C008,Miami,PayPal
+1428,2024-02-26,Portable SSD 1TB,Electronics,1,89.99,89.99,C247,Los Angeles,Credit Card
+1429,2024-03-12,Laptop Sleeve,Accessories,3,22.99,68.97,C054,Austin,Debit Card
+1430,2024-03-07,Charging Station,Accessories,1,29.99,29.99,C051,Houston,Cash
+1431,2024-04-01,Gaming Headset,Electronics,1,59.99,59.99,C264,Houston,Credit Card
+1432,2024-02-04,Gaming Headset,Electronics,2,59.99,119.98,C096,New York,PayPal
+1433,2024-03-18,Webcam HD,Electronics,4,39.99,159.96,C288,New York,PayPal
+1434,2024-02-15,Wireless Mouse,Accessories,4,15.99,63.96,C165,Houston,PayPal
+1435,2024-05-21,LED Desk Lamp,Home,2,34.99,69.98,C223,Houston,Credit Card
+1436,2024-06-24,Portable SSD 1TB,Electronics,3,89.99,269.97,C007,Austin,Debit Card
+1437,2024-01-07,Laptop Sleeve,Accessories,2,22.99,45.98,C161,Houston,Debit Card
+1438,2024-03-25,Mechanical Keyboard,Electronics,3,79.99,239.97,C147,Miami,Cash
+1439,2024-05-04,Portable SSD 1TB,Electronics,4,89.99,359.96,C036,Los Angeles,Credit Card
+1440,2024-03-22,Portable SSD 1TB,Electronics,1,89.99,89.99,C002,Austin,Credit Card
+1441,2024-02-16,Bluetooth Speaker,Electronics,1,49.99,49.99,C197,Seattle,Cash
+1442,2024-01-11,Laptop Sleeve,Accessories,4,22.99,91.96,C234,Houston,Cash
+1443,2024-05-09,Charging Station,Accessories,3,29.99,89.97,C195,Chicago,Debit Card
+1444,2024-04-28,Wireless Mouse,Accessories,3,15.99,47.97,C020,Phoenix,Debit Card
+1445,2024-02-06,LED Desk Lamp,Home,1,34.99,34.99,C256,Phoenix,PayPal
+1446,2024-05-16,Wireless Mouse,Accessories,2,15.99,31.98,C226,New York,PayPal
+1447,2024-06-20,Portable SSD 1TB,Electronics,1,89.99,89.99,C280,Austin,Cash
+1448,2024-06-06,Wireless Mouse,Accessories,1,15.99,15.99,C120,Phoenix,PayPal
+1449,2024-05-07,Wireless Mouse,Accessories,3,15.99,47.97,C224,Austin,PayPal
+1450,2024-04-23,Charging Station,Accessories,1,29.99,29.99,C115,Houston,Credit Card
+1451,2024-01-14,Gaming Headset,Electronics,1,59.99,59.99,C009,Houston,Cash
+1452,2024-01-25,Portable SSD 1TB,Electronics,4,89.99,359.96,C201,Los Angeles,Cash
+1453,2024-01-22,Mechanical Keyboard,Electronics,2,79.99,159.98,C235,Miami,Debit Card
+1454,2024-01-04,Mechanical Keyboard,Electronics,2,79.99,159.98,C154,Phoenix,Credit Card
+1455,2024-01-29,Wireless Mouse,Accessories,2,15.99,31.98,C109,Phoenix,Debit Card
+1456,2024-02-06,Charging Station,Accessories,2,29.99,59.98,C075,Austin,Cash
+1457,2024-05-25,Charging Station,Accessories,2,29.99,59.98,C128,Chicago,Debit Card
+1458,2024-02-11,Gaming Headset,Electronics,1,59.99,59.99,C041,New York,Cash
+1459,2024-02-03,Webcam HD,Electronics,2,39.99,79.98,C017,Phoenix,Cash
+1460,2024-06-01,Wireless Mouse,Accessories,1,15.99,15.99,C076,Chicago,Debit Card
+1461,2024-04-26,Bluetooth Speaker,Electronics,3,49.99,149.97,C027,Seattle,Credit Card
+1462,2024-01-31,Charging Station,Accessories,1,29.99,29.99,C134,Houston,Debit Card
+1463,2024-06-16,Bluetooth Speaker,Electronics,3,49.99,149.97,C098,Houston,PayPal
+1464,2024-02-22,Webcam HD,Electronics,4,39.99,159.96,C173,Austin,PayPal
+1465,2024-06-02,Wireless Mouse,Accessories,1,15.99,15.99,C190,Seattle,Debit Card
+1466,2024-02-15,Portable SSD 1TB,Electronics,2,89.99,179.98,C064,New York,Debit Card
+1467,2024-02-23,Gaming Headset,Electronics,2,59.99,119.98,C193,Chicago,Credit Card
+1468,2024-02-05,Webcam HD,Electronics,3,39.99,119.97,C282,New York,Debit Card
+1469,2024-05-28,Gaming Headset,Electronics,1,59.99,59.99,C267,Austin,PayPal
+1470,2024-01-11,LED Desk Lamp,Home,4,34.99,139.96,C164,Miami,Credit Card
+1471,2024-02-08,Charging Station,Accessories,1,29.99,29.99,C232,Miami,Credit Card
+1472,2024-02-23,Bluetooth Speaker,Electronics,3,49.99,149.97,C098,Austin,Cash
+1473,2024-04-20,Charging Station,Accessories,3,29.99,89.97,C152,Los Angeles,PayPal
+1474,2024-05-29,Wireless Mouse,Accessories,2,15.99,31.98,C069,Chicago,Credit Card
+1475,2024-02-02,Webcam HD,Electronics,4,39.99,159.96,C250,Seattle,Debit Card
+1476,2024-05-27,LED Desk Lamp,Home,4,34.99,139.96,C227,New York,Credit Card
+1477,2024-03-21,LED Desk Lamp,Home,4,34.99,139.96,C201,Austin,Debit Card
+1478,2024-03-13,Webcam HD,Electronics,2,39.99,79.98,C201,Chicago,PayPal
+1479,2024-01-17,Bluetooth Speaker,Electronics,4,49.99,199.96,C129,Chicago,PayPal
+1480,2024-03-01,Gaming Headset,Electronics,1,59.99,59.99,C104,Chicago,Credit Card
+1481,2024-01-25,Laptop Sleeve,Accessories,2,22.99,45.98,C039,Phoenix,Cash
+1482,2024-05-10,Wireless Mouse,Accessories,3,15.99,47.97,C229,Phoenix,Credit Card
+1483,2024-06-20,Webcam HD,Electronics,4,39.99,159.96,C102,Chicago,Debit Card
+1484,2024-01-12,Mechanical Keyboard,Electronics,2,79.99,159.98,C275,Austin,Cash
+1485,2024-02-13,Laptop Sleeve,Accessories,1,22.99,22.99,C017,Miami,PayPal
+1486,2024-02-26,Mechanical Keyboard,Electronics,2,79.99,159.98,C012,Los Angeles,Cash
+1487,2024-03-20,Mechanical Keyboard,Electronics,2,79.99,159.98,C216,Austin,Cash
+1488,2024-01-08,Mechanical Keyboard,Electronics,3,79.99,239.97,C149,Phoenix,Cash
+1489,2024-04-27,Gaming Headset,Electronics,1,59.99,59.99,C198,Austin,PayPal
+1490,2024-01-25,Bluetooth Speaker,Electronics,4,49.99,199.96,C089,Phoenix,PayPal
+1491,2024-05-22,LED Desk Lamp,Home,4,34.99,139.96,C059,Phoenix,Debit Card
+1492,2024-04-18,Wireless Mouse,Accessories,2,15.99,31.98,C026,Austin,Cash
+1493,2024-02-01,Gaming Headset,Electronics,3,59.99,179.97,C266,Houston,Debit Card
+1494,2024-05-24,LED Desk Lamp,Home,4,34.99,139.96,C282,Houston,Cash
+1495,2024-03-26,Webcam HD,Electronics,1,39.99,39.99,C250,Miami,Credit Card
+1496,2024-01-14,LED Desk Lamp,Home,3,34.99,104.97,C117,Austin,Debit Card
+1497,2024-05-16,Gaming Headset,Electronics,3,59.99,179.97,C176,New York,PayPal
+1498,2024-02-28,Mechanical Keyboard,Electronics,4,79.99,319.96,C215,Seattle,Credit Card
+1499,2024-03-22,Laptop Sleeve,Accessories,1,22.99,22.99,C223,New York,PayPal
+1500,2024-04-25,LED Desk Lamp,Home,2,34.99,69.98,C103,Phoenix,Debit Card
+1501,2024-01-14,Gaming Headset,Electronics,1,59.99,59.99,C159,Phoenix,Debit Card
+1502,2024-04-17,Gaming Headset,Electronics,4,59.99,239.96,C188,Seattle,Debit Card
+1503,2024-04-07,Bluetooth Speaker,Electronics,1,49.99,49.99,C131,Los Angeles,PayPal
+1504,2024-06-19,USB-C Cable,Accessories,1,9.99,9.99,C183,Seattle,PayPal
+1505,2024-04-17,Webcam HD,Electronics,3,39.99,119.97,C039,New York,Credit Card
+1506,2024-04-29,Gaming Headset,Electronics,3,59.99,179.97,C004,Chicago,Credit Card
+1507,2024-06-01,Portable SSD 1TB,Electronics,1,89.99,89.99,C210,Houston,PayPal
+1508,2024-01-16,Bluetooth Speaker,Electronics,1,49.99,49.99,C108,Miami,Cash
+1509,2024-02-24,LED Desk Lamp,Home,2,34.99,69.98,C227,Austin,Debit Card
+1510,2024-02-03,LED Desk Lamp,Home,2,34.99,69.98,C251,Phoenix,Cash
+1511,2024-01-13,Bluetooth Speaker,Electronics,3,49.99,149.97,C141,Los Angeles,PayPal
+1512,2024-06-08,Portable SSD 1TB,Electronics,2,89.99,179.98,C096,Los Angeles,Cash
+1513,2024-05-02,Laptop Sleeve,Accessories,3,22.99,68.97,C039,Chicago,PayPal
+1514,2024-01-29,USB-C Cable,Accessories,2,9.99,19.98,C245,New York,PayPal
+1515,2024-01-16,Charging Station,Accessories,4,29.99,119.96,C236,Miami,Credit Card
+1516,2024-04-30,LED Desk Lamp,Home,3,34.99,104.97,C266,Austin,Cash
+1517,2024-06-01,Portable SSD 1TB,Electronics,2,89.99,179.98,C065,Seattle,Credit Card
+1518,2024-06-25,LED Desk Lamp,Home,2,34.99,69.98,C003,Chicago,Debit Card
+1519,2024-05-21,USB-C Cable,Accessories,1,9.99,9.99,C158,Austin,Cash
+1520,2024-03-08,Gaming Headset,Electronics,2,59.99,119.98,C146,Miami,Debit Card
+1521,2024-02-06,Mechanical Keyboard,Electronics,2,79.99,159.98,C153,Houston,Cash
+1522,2024-03-13,LED Desk Lamp,Home,4,34.99,139.96,C140,Phoenix,Cash
+1523,2024-02-06,USB-C Cable,Accessories,3,9.99,29.97,C061,Chicago,Cash
+1524,2024-06-19,LED Desk Lamp,Home,1,34.99,34.99,C198,Phoenix,Credit Card
+1525,2024-03-03,Mechanical Keyboard,Electronics,3,79.99,239.97,C011,Miami,Cash
+1526,2024-03-17,USB-C Cable,Accessories,2,9.99,19.98,C226,Seattle,Credit Card
+1527,2024-02-21,Wireless Mouse,Accessories,1,15.99,15.99,C260,Phoenix,Debit Card
+1528,2024-03-12,Portable SSD 1TB,Electronics,3,89.99,269.97,C148,Austin,Credit Card
+1529,2024-03-03,Charging Station,Accessories,1,29.99,29.99,C243,Miami,Credit Card
+1530,2024-04-19,LED Desk Lamp,Home,1,34.99,34.99,C107,Houston,PayPal
+1531,2024-02-26,Mechanical Keyboard,Electronics,2,79.99,159.98,C218,Los Angeles,Credit Card
+1532,2024-01-03,Laptop Sleeve,Accessories,1,22.99,22.99,C262,Seattle,Debit Card
+1533,2024-01-05,USB-C Cable,Accessories,1,9.99,9.99,C054,Houston,Debit Card
+1534,2024-06-25,Laptop Sleeve,Accessories,3,22.99,68.97,C009,Los Angeles,Debit Card
+1535,2024-01-20,Gaming Headset,Electronics,3,59.99,179.97,C241,New York,PayPal
+1536,2024-05-02,Mechanical Keyboard,Electronics,1,79.99,79.99,C178,New York,Cash
+1537,2024-03-02,Wireless Mouse,Accessories,2,15.99,31.98,C145,Houston,Cash
+1538,2024-01-03,Laptop Sleeve,Accessories,4,22.99,91.96,C160,Chicago,PayPal
+1539,2024-01-13,Portable SSD 1TB,Electronics,3,89.99,269.97,C120,Miami,Cash
+1540,2024-03-29,Laptop Sleeve,Accessories,1,22.99,22.99,C068,Phoenix,Debit Card
+1541,2024-04-10,Webcam HD,Electronics,2,39.99,79.98,C098,Miami,Credit Card
+1542,2024-04-14,Charging Station,Accessories,3,29.99,89.97,C123,Seattle,Cash
+1543,2024-01-29,Bluetooth Speaker,Electronics,4,49.99,199.96,C137,Phoenix,PayPal
+1544,2024-06-01,Bluetooth Speaker,Electronics,3,49.99,149.97,C226,Houston,Credit Card
+1545,2024-06-18,Webcam HD,Electronics,4,39.99,159.96,C009,Seattle,Debit Card
+1546,2024-02-09,USB-C Cable,Accessories,3,9.99,29.97,C025,Chicago,Cash
+1547,2024-05-18,Laptop Sleeve,Accessories,1,22.99,22.99,C226,Houston,Cash
+1548,2024-05-03,Wireless Mouse,Accessories,4,15.99,63.96,C038,Houston,Cash
+1549,2024-05-12,Bluetooth Speaker,Electronics,4,49.99,199.96,C176,New York,Credit Card
+1550,2024-05-25,Mechanical Keyboard,Electronics,2,79.99,159.98,C037,Austin,Debit Card
+1551,2024-06-24,USB-C Cable,Accessories,4,9.99,39.96,C284,Phoenix,Credit Card
+1552,2024-03-21,LED Desk Lamp,Home,1,34.99,34.99,C114,Chicago,Cash
+1553,2024-02-14,Mechanical Keyboard,Electronics,4,79.99,319.96,C224,Miami,Cash
+1554,2024-04-02,Bluetooth Speaker,Electronics,2,49.99,99.98,C115,Houston,Credit Card
+1555,2024-03-07,Mechanical Keyboard,Electronics,2,79.99,159.98,C056,Miami,Credit Card
+1556,2024-04-07,Webcam HD,Electronics,4,39.99,159.96,C040,Los Angeles,Credit Card
+1557,2024-02-02,Wireless Mouse,Accessories,3,15.99,47.97,C262,New York,PayPal
+1558,2024-05-26,Portable SSD 1TB,Electronics,4,89.99,359.96,C168,Los Angeles,Debit Card
+1559,2024-04-06,Webcam HD,Electronics,4,39.99,159.96,C059,Miami,Debit Card
+1560,2024-02-17,Bluetooth Speaker,Electronics,3,49.99,149.97,C169,Seattle,PayPal
+1561,2024-04-16,Wireless Mouse,Accessories,1,15.99,15.99,C045,New York,Credit Card
+1562,2024-06-18,Charging Station,Accessories,1,29.99,29.99,C191,Los Angeles,Cash
+1563,2024-06-14,Laptop Sleeve,Accessories,3,22.99,68.97,C188,Phoenix,PayPal
+1564,2024-05-12,USB-C Cable,Accessories,3,9.99,29.97,C235,Miami,PayPal
+1565,2024-02-27,Bluetooth Speaker,Electronics,1,49.99,49.99,C249,New York,Debit Card
+1566,2024-01-31,Gaming Headset,Electronics,3,59.99,179.97,C023,New York,Cash
+1567,2024-05-17,Webcam HD,Electronics,2,39.99,79.98,C160,Miami,Credit Card
+1568,2024-06-06,Webcam HD,Electronics,3,39.99,119.97,C039,Houston,Credit Card
+1569,2024-03-22,Gaming Headset,Electronics,3,59.99,179.97,C258,Houston,Debit Card
+1570,2024-03-17,LED Desk Lamp,Home,2,34.99,69.98,C012,New York,Cash
+1571,2024-01-13,Webcam HD,Electronics,3,39.99,119.97,C046,New York,PayPal
+1572,2024-04-22,Portable SSD 1TB,Electronics,3,89.99,269.97,C233,Chicago,Debit Card
+1573,2024-04-13,Mechanical Keyboard,Electronics,1,79.99,79.99,C223,Houston,Cash
+1574,2024-03-28,Gaming Headset,Electronics,2,59.99,119.98,C163,Houston,PayPal
+1575,2024-03-10,Mechanical Keyboard,Electronics,4,79.99,319.96,C074,Chicago,PayPal
+1576,2024-03-03,Webcam HD,Electronics,1,39.99,39.99,C060,Phoenix,Cash
+1577,2024-02-06,Webcam HD,Electronics,3,39.99,119.97,C278,Miami,Cash
+1578,2024-05-27,USB-C Cable,Accessories,4,9.99,39.96,C242,Phoenix,Credit Card
+1579,2024-01-17,Bluetooth Speaker,Electronics,4,49.99,199.96,C012,Austin,Credit Card
+1580,2024-05-24,Webcam HD,Electronics,2,39.99,79.98,C193,Chicago,Cash
+1581,2024-04-29,Portable SSD 1TB,Electronics,2,89.99,179.98,C210,Austin,Debit Card
+1582,2024-01-14,Wireless Mouse,Accessories,2,15.99,31.98,C192,Miami,Credit Card
+1583,2024-01-29,Mechanical Keyboard,Electronics,3,79.99,239.97,C204,Seattle,Credit Card
+1584,2024-06-28,Webcam HD,Electronics,4,39.99,159.96,C007,Houston,PayPal
+1585,2024-05-18,Bluetooth Speaker,Electronics,1,49.99,49.99,C033,Phoenix,Credit Card
+1586,2024-04-20,Charging Station,Accessories,2,29.99,59.98,C079,Seattle,Debit Card
+1587,2024-06-27,Mechanical Keyboard,Electronics,4,79.99,319.96,C058,Miami,PayPal
+1588,2024-01-26,USB-C Cable,Accessories,3,9.99,29.97,C226,Miami,Debit Card
+1589,2024-01-04,Mechanical Keyboard,Electronics,1,79.99,79.99,C099,Phoenix,Cash
+1590,2024-02-08,Wireless Mouse,Accessories,1,15.99,15.99,C271,Houston,PayPal
+1591,2024-01-29,Charging Station,Accessories,3,29.99,89.97,C157,Chicago,Debit Card
+1592,2024-04-25,Gaming Headset,Electronics,3,59.99,179.97,C288,New York,Debit Card
+1593,2024-06-23,Charging Station,Accessories,2,29.99,59.98,C084,New York,Credit Card
+1594,2024-01-27,Portable SSD 1TB,Electronics,2,89.99,179.98,C195,New York,Debit Card
+1595,2024-05-05,USB-C Cable,Accessories,1,9.99,9.99,C236,New York,Cash
+1596,2024-04-01,Portable SSD 1TB,Electronics,4,89.99,359.96,C021,Seattle,PayPal
+1597,2024-04-10,Laptop Sleeve,Accessories,3,22.99,68.97,C084,Miami,Cash
+1598,2024-05-26,USB-C Cable,Accessories,2,9.99,19.98,C257,Seattle,Debit Card
+1599,2024-05-03,Portable SSD 1TB,Electronics,2,89.99,179.98,C015,Phoenix,Debit Card
+1600,2024-06-11,Gaming Headset,Electronics,2,59.99,119.98,C281,Los Angeles,PayPal
+1601,2024-01-12,Bluetooth Speaker,Electronics,4,49.99,199.96,C274,Seattle,Cash
+1602,2024-01-27,Mechanical Keyboard,Electronics,3,79.99,239.97,C072,Phoenix,Debit Card
+1603,2024-06-22,Laptop Sleeve,Accessories,4,22.99,91.96,C145,Miami,PayPal
+1604,2024-02-22,Webcam HD,Electronics,1,39.99,39.99,C008,Chicago,Cash
+1605,2024-01-27,Bluetooth Speaker,Electronics,3,49.99,149.97,C174,Austin,Credit Card
+1606,2024-05-10,Wireless Mouse,Accessories,2,15.99,31.98,C181,Houston,Cash
+1607,2024-02-29,Charging Station,Accessories,4,29.99,119.96,C046,Los Angeles,Debit Card
+1608,2024-06-01,LED Desk Lamp,Home,3,34.99,104.97,C222,Miami,Credit Card
+1609,2024-01-17,Laptop Sleeve,Accessories,2,22.99,45.98,C236,Phoenix,Cash
+1610,2024-01-09,Gaming Headset,Electronics,4,59.99,239.96,C166,Phoenix,PayPal
+1611,2024-03-03,LED Desk Lamp,Home,4,34.99,139.96,C214,Los Angeles,Debit Card
+1612,2024-04-26,Charging Station,Accessories,2,29.99,59.98,C072,Miami,PayPal
+1613,2024-03-04,USB-C Cable,Accessories,3,9.99,29.97,C205,Chicago,Credit Card
+1614,2024-03-12,Bluetooth Speaker,Electronics,1,49.99,49.99,C277,New York,Debit Card
+1615,2024-03-04,Mechanical Keyboard,Electronics,2,79.99,159.98,C095,Los Angeles,Credit Card
+1616,2024-02-01,Wireless Mouse,Accessories,2,15.99,31.98,C011,Houston,Credit Card
+1617,2024-02-02,Mechanical Keyboard,Electronics,1,79.99,79.99,C102,Chicago,Credit Card
+1618,2024-05-15,Bluetooth Speaker,Electronics,1,49.99,49.99,C267,Chicago,Credit Card
+1619,2024-06-27,Webcam HD,Electronics,2,39.99,79.98,C088,Austin,Cash
+1620,2024-05-24,Laptop Sleeve,Accessories,1,22.99,22.99,C076,Seattle,PayPal
+1621,2024-02-15,Gaming Headset,Electronics,1,59.99,59.99,C160,Los Angeles,Debit Card
+1622,2024-03-20,Gaming Headset,Electronics,3,59.99,179.97,C086,New York,PayPal
+1623,2024-05-27,Bluetooth Speaker,Electronics,4,49.99,199.96,C161,Los Angeles,Debit Card
+1624,2024-06-16,Charging Station,Accessories,2,29.99,59.98,C242,New York,Credit Card
+1625,2024-04-06,Wireless Mouse,Accessories,4,15.99,63.96,C002,Seattle,Debit Card
+1626,2024-02-02,Charging Station,Accessories,1,29.99,29.99,C233,Phoenix,Credit Card
+1627,2024-06-06,Gaming Headset,Electronics,1,59.99,59.99,C077,Phoenix,Credit Card
+1628,2024-06-02,Gaming Headset,Electronics,4,59.99,239.96,C103,Austin,PayPal
+1629,2024-06-14,LED Desk Lamp,Home,2,34.99,69.98,C090,New York,Debit Card
+1630,2024-05-01,Webcam HD,Electronics,2,39.99,79.98,C143,Austin,Credit Card
+1631,2024-04-15,Gaming Headset,Electronics,2,59.99,119.98,C123,Chicago,Credit Card
+1632,2024-01-09,Charging Station,Accessories,2,29.99,59.98,C262,Los Angeles,Debit Card
+1633,2024-04-12,Charging Station,Accessories,1,29.99,29.99,C223,Seattle,Debit Card
+1634,2024-02-10,LED Desk Lamp,Home,4,34.99,139.96,C204,Houston,Credit Card
+1635,2024-03-12,Laptop Sleeve,Accessories,4,22.99,91.96,C178,Phoenix,Credit Card
+1636,2024-03-02,LED Desk Lamp,Home,4,34.99,139.96,C084,Los Angeles,PayPal
+1637,2024-04-20,Bluetooth Speaker,Electronics,2,49.99,99.98,C251,New York,Debit Card
+1638,2024-01-07,Webcam HD,Electronics,3,39.99,119.97,C084,New York,Debit Card
+1639,2024-05-11,Portable SSD 1TB,Electronics,4,89.99,359.96,C022,New York,Cash
+1640,2024-05-06,Wireless Mouse,Accessories,2,15.99,31.98,C003,Miami,PayPal
+1641,2024-02-10,Webcam HD,Electronics,3,39.99,119.97,C188,Phoenix,Cash
+1642,2024-01-14,Wireless Mouse,Accessories,2,15.99,31.98,C012,Los Angeles,Debit Card
+1643,2024-01-12,Webcam HD,Electronics,3,39.99,119.97,C025,Austin,PayPal
+1644,2024-05-01,Wireless Mouse,Accessories,1,15.99,15.99,C147,Phoenix,Debit Card
+1645,2024-04-09,Bluetooth Speaker,Electronics,3,49.99,149.97,C173,Austin,PayPal
+1646,2024-04-28,Wireless Mouse,Accessories,4,15.99,63.96,C183,Los Angeles,Debit Card
+1647,2024-02-20,Gaming Headset,Electronics,4,59.99,239.96,C082,Phoenix,Credit Card
+1648,2024-05-25,Charging Station,Accessories,2,29.99,59.98,C211,Phoenix,Cash
+1649,2024-02-06,Laptop Sleeve,Accessories,2,22.99,45.98,C059,Seattle,PayPal
+1650,2024-06-04,Laptop Sleeve,Accessories,3,22.99,68.97,C202,Miami,Credit Card
+1651,2024-02-04,Wireless Mouse,Accessories,3,15.99,47.97,C093,Houston,Credit Card
+1652,2024-04-06,Bluetooth Speaker,Electronics,2,49.99,99.98,C213,New York,Cash
+1653,2024-01-24,LED Desk Lamp,Home,3,34.99,104.97,C293,Houston,Cash
+1654,2024-04-17,Webcam HD,Electronics,4,39.99,159.96,C020,Los Angeles,Credit Card
+1655,2024-05-31,USB-C Cable,Accessories,4,9.99,39.96,C050,Phoenix,Credit Card
+1656,2024-06-27,USB-C Cable,Accessories,1,9.99,9.99,C096,Miami,Debit Card
+1657,2024-06-12,Mechanical Keyboard,Electronics,1,79.99,79.99,C250,Seattle,Cash
+1658,2024-04-07,Charging Station,Accessories,1,29.99,29.99,C228,Austin,Debit Card
+1659,2024-03-19,Bluetooth Speaker,Electronics,2,49.99,99.98,C262,Austin,Cash
+1660,2024-06-18,Wireless Mouse,Accessories,3,15.99,47.97,C243,Austin,Cash
+1661,2024-05-04,Wireless Mouse,Accessories,3,15.99,47.97,C268,Chicago,PayPal
+1662,2024-01-18,Bluetooth Speaker,Electronics,3,49.99,149.97,C040,Houston,Credit Card
+1663,2024-05-22,Webcam HD,Electronics,1,39.99,39.99,C225,Phoenix,PayPal
+1664,2024-01-26,USB-C Cable,Accessories,3,9.99,29.97,C008,Los Angeles,Credit Card
+1665,2024-03-27,Portable SSD 1TB,Electronics,4,89.99,359.96,C298,New York,Debit Card
+1666,2024-01-14,Charging Station,Accessories,4,29.99,119.96,C002,Houston,Credit Card
+1667,2024-02-06,Webcam HD,Electronics,3,39.99,119.97,C041,Phoenix,PayPal
+1668,2024-02-29,USB-C Cable,Accessories,2,9.99,19.98,C111,Miami,Debit Card
+1669,2024-03-24,Gaming Headset,Electronics,2,59.99,119.98,C130,Houston,PayPal
+1670,2024-03-10,Mechanical Keyboard,Electronics,3,79.99,239.97,C145,Seattle,Credit Card
+1671,2024-03-29,Portable SSD 1TB,Electronics,3,89.99,269.97,C028,Austin,PayPal
+1672,2024-06-11,Gaming Headset,Electronics,2,59.99,119.98,C229,Phoenix,Cash
+1673,2024-06-16,Webcam HD,Electronics,1,39.99,39.99,C164,Phoenix,Debit Card
+1674,2024-05-30,Portable SSD 1TB,Electronics,1,89.99,89.99,C287,Chicago,Cash
+1675,2024-01-10,Webcam HD,Electronics,3,39.99,119.97,C195,Austin,Debit Card
+1676,2024-01-14,Webcam HD,Electronics,2,39.99,79.98,C080,Chicago,PayPal
+1677,2024-04-02,Mechanical Keyboard,Electronics,2,79.99,159.98,C266,Seattle,PayPal
+1678,2024-04-03,Webcam HD,Electronics,4,39.99,159.96,C257,Houston,Cash
+1679,2024-01-20,Wireless Mouse,Accessories,1,15.99,15.99,C264,Houston,Cash
+1680,2024-01-01,Webcam HD,Electronics,3,39.99,119.97,C064,Chicago,Credit Card
+1681,2024-01-28,LED Desk Lamp,Home,2,34.99,69.98,C121,Austin,Cash
+1682,2024-06-13,USB-C Cable,Accessories,3,9.99,29.97,C175,Los Angeles,Debit Card
+1683,2024-06-13,Bluetooth Speaker,Electronics,1,49.99,49.99,C120,Phoenix,PayPal
+1684,2024-02-25,Wireless Mouse,Accessories,4,15.99,63.96,C156,Austin,Credit Card
+1685,2024-05-13,Portable SSD 1TB,Electronics,3,89.99,269.97,C108,Los Angeles,Cash
+1686,2024-05-27,Mechanical Keyboard,Electronics,3,79.99,239.97,C130,Houston,Credit Card
+1687,2024-02-06,Charging Station,Accessories,1,29.99,29.99,C020,Phoenix,Debit Card
+1688,2024-01-29,Wireless Mouse,Accessories,2,15.99,31.98,C001,Chicago,PayPal
+1689,2024-02-04,Wireless Mouse,Accessories,3,15.99,47.97,C198,Seattle,PayPal
+1690,2024-02-28,Wireless Mouse,Accessories,1,15.99,15.99,C161,Houston,Credit Card
+1691,2024-06-27,Mechanical Keyboard,Electronics,1,79.99,79.99,C206,New York,Debit Card
+1692,2024-01-20,Gaming Headset,Electronics,4,59.99,239.96,C181,Los Angeles,Credit Card
+1693,2024-02-12,Portable SSD 1TB,Electronics,2,89.99,179.98,C126,Phoenix,Cash
+1694,2024-02-19,Wireless Mouse,Accessories,2,15.99,31.98,C285,New York,Debit Card
+1695,2024-02-08,Laptop Sleeve,Accessories,1,22.99,22.99,C223,Miami,Debit Card
+1696,2024-06-19,LED Desk Lamp,Home,4,34.99,139.96,C178,Phoenix,Debit Card
+1697,2024-06-20,Mechanical Keyboard,Electronics,3,79.99,239.97,C294,Austin,Debit Card
+1698,2024-05-30,Mechanical Keyboard,Electronics,4,79.99,319.96,C126,Chicago,Cash
+1699,2024-02-21,Mechanical Keyboard,Electronics,1,79.99,79.99,C234,Phoenix,Credit Card
+1700,2024-04-28,USB-C Cable,Accessories,4,9.99,39.96,C008,Los Angeles,Debit Card
+1701,2024-03-25,USB-C Cable,Accessories,2,9.99,19.98,C129,Phoenix,Debit Card
+1702,2024-01-08,USB-C Cable,Accessories,3,9.99,29.97,C157,Chicago,PayPal
+1703,2024-04-11,Wireless Mouse,Accessories,4,15.99,63.96,C005,New York,PayPal
+1704,2024-03-26,LED Desk Lamp,Home,3,34.99,104.97,C175,Miami,Debit Card
+1705,2024-02-24,Portable SSD 1TB,Electronics,2,89.99,179.98,C119,Phoenix,PayPal
+1706,2024-06-19,Charging Station,Accessories,2,29.99,59.98,C114,Chicago,Credit Card
+1707,2024-05-24,Gaming Headset,Electronics,2,59.99,119.98,C026,Los Angeles,Credit Card
+1708,2024-02-16,Wireless Mouse,Accessories,4,15.99,63.96,C232,Houston,PayPal
+1709,2024-03-16,Mechanical Keyboard,Electronics,1,79.99,79.99,C289,Austin,Debit Card
+1710,2024-05-26,Laptop Sleeve,Accessories,1,22.99,22.99,C287,Miami,Credit Card
+1711,2024-05-21,Bluetooth Speaker,Electronics,4,49.99,199.96,C053,Los Angeles,PayPal
+1712,2024-03-09,Webcam HD,Electronics,4,39.99,159.96,C090,Miami,Debit Card
+1713,2024-03-03,Portable SSD 1TB,Electronics,2,89.99,179.98,C073,Phoenix,PayPal
+1714,2024-06-17,Gaming Headset,Electronics,1,59.99,59.99,C089,Miami,PayPal
+1715,2024-01-13,LED Desk Lamp,Home,4,34.99,139.96,C073,Phoenix,Credit Card
+1716,2024-03-17,Webcam HD,Electronics,1,39.99,39.99,C159,Austin,Credit Card
+1717,2024-03-08,LED Desk Lamp,Home,1,34.99,34.99,C098,Chicago,Credit Card
+1718,2024-04-11,Charging Station,Accessories,1,29.99,29.99,C132,New York,Debit Card
+1719,2024-01-19,USB-C Cable,Accessories,2,9.99,19.98,C082,Seattle,PayPal
+1720,2024-01-23,Webcam HD,Electronics,1,39.99,39.99,C129,New York,Debit Card
+1721,2024-02-23,Bluetooth Speaker,Electronics,4,49.99,199.96,C089,Houston,Credit Card
+1722,2024-05-22,Mechanical Keyboard,Electronics,1,79.99,79.99,C065,New York,PayPal
+1723,2024-05-22,Mechanical Keyboard,Electronics,4,79.99,319.96,C093,Austin,Credit Card
+1724,2024-06-09,USB-C Cable,Accessories,1,9.99,9.99,C224,Los Angeles,Credit Card
+1725,2024-02-04,Wireless Mouse,Accessories,1,15.99,15.99,C102,Phoenix,Credit Card
+1726,2024-01-11,Bluetooth Speaker,Electronics,2,49.99,99.98,C110,Austin,Cash
+1727,2024-03-14,Mechanical Keyboard,Electronics,2,79.99,159.98,C265,Austin,Credit Card
+1728,2024-03-25,Laptop Sleeve,Accessories,3,22.99,68.97,C282,Seattle,Cash
+1729,2024-02-17,Bluetooth Speaker,Electronics,4,49.99,199.96,C117,Los Angeles,Cash
+1730,2024-06-02,Gaming Headset,Electronics,1,59.99,59.99,C153,Seattle,Credit Card
+1731,2024-05-12,Webcam HD,Electronics,4,39.99,159.96,C293,Phoenix,Credit Card
+1732,2024-02-13,Bluetooth Speaker,Electronics,3,49.99,149.97,C228,Phoenix,Credit Card
+1733,2024-02-12,Charging Station,Accessories,3,29.99,89.97,C021,Miami,Cash
+1734,2024-04-16,Portable SSD 1TB,Electronics,3,89.99,269.97,C117,Houston,PayPal
+1735,2024-05-22,Wireless Mouse,Accessories,4,15.99,63.96,C281,Phoenix,Debit Card
+1736,2024-02-20,Wireless Mouse,Accessories,4,15.99,63.96,C271,Phoenix,Debit Card
+1737,2024-01-21,Charging Station,Accessories,4,29.99,119.96,C141,Phoenix,Credit Card
+1738,2024-01-19,Bluetooth Speaker,Electronics,2,49.99,99.98,C290,Miami,Cash
+1739,2024-05-04,Portable SSD 1TB,Electronics,2,89.99,179.98,C052,Houston,Credit Card
+1740,2024-01-27,Charging Station,Accessories,2,29.99,59.98,C157,Los Angeles,PayPal
+1741,2024-06-04,Bluetooth Speaker,Electronics,3,49.99,149.97,C291,Miami,Credit Card
+1742,2024-05-23,Charging Station,Accessories,4,29.99,119.96,C106,Austin,Credit Card
+1743,2024-06-06,Mechanical Keyboard,Electronics,4,79.99,319.96,C146,New York,Debit Card
+1744,2024-06-25,Laptop Sleeve,Accessories,2,22.99,45.98,C077,Miami,PayPal
+1745,2024-03-30,Charging Station,Accessories,4,29.99,119.96,C263,Miami,Cash
+1746,2024-04-17,Laptop Sleeve,Accessories,3,22.99,68.97,C074,Austin,Credit Card
+1747,2024-05-20,Bluetooth Speaker,Electronics,3,49.99,149.97,C159,New York,Cash
+1748,2024-02-25,LED Desk Lamp,Home,3,34.99,104.97,C241,Seattle,Cash
+1749,2024-02-11,Charging Station,Accessories,2,29.99,59.98,C036,Los Angeles,PayPal
+1750,2024-04-27,Gaming Headset,Electronics,4,59.99,239.96,C263,Los Angeles,Credit Card
+1751,2024-05-08,Wireless Mouse,Accessories,2,15.99,31.98,C172,Seattle,PayPal
+1752,2024-06-21,USB-C Cable,Accessories,4,9.99,39.96,C047,New York,Cash
+1753,2024-05-20,USB-C Cable,Accessories,3,9.99,29.97,C118,New York,Credit Card
+1754,2024-05-16,Laptop Sleeve,Accessories,1,22.99,22.99,C026,Houston,PayPal
+1755,2024-01-15,Wireless Mouse,Accessories,1,15.99,15.99,C010,Chicago,Cash
+1756,2024-05-01,LED Desk Lamp,Home,4,34.99,139.96,C121,New York,PayPal
+1757,2024-06-18,Gaming Headset,Electronics,1,59.99,59.99,C072,Miami,Cash
+1758,2024-02-18,Charging Station,Accessories,4,29.99,119.96,C154,Chicago,Credit Card
+1759,2024-02-06,Wireless Mouse,Accessories,3,15.99,47.97,C068,Austin,Credit Card
+1760,2024-05-31,LED Desk Lamp,Home,2,34.99,69.98,C019,Los Angeles,Credit Card
+1761,2024-02-29,Laptop Sleeve,Accessories,4,22.99,91.96,C167,Miami,Credit Card
+1762,2024-03-29,Mechanical Keyboard,Electronics,2,79.99,159.98,C146,Chicago,PayPal
+1763,2024-06-12,Wireless Mouse,Accessories,3,15.99,47.97,C242,New York,PayPal
+1764,2024-06-23,LED Desk Lamp,Home,1,34.99,34.99,C049,Austin,Cash
+1765,2024-04-17,USB-C Cable,Accessories,3,9.99,29.97,C226,Miami,Debit Card
+1766,2024-04-28,Webcam HD,Electronics,1,39.99,39.99,C149,New York,Debit Card
+1767,2024-05-29,Wireless Mouse,Accessories,1,15.99,15.99,C293,New York,Credit Card
+1768,2024-06-11,Webcam HD,Electronics,3,39.99,119.97,C160,Austin,Cash
+1769,2024-05-17,Wireless Mouse,Accessories,3,15.99,47.97,C078,New York,Debit Card
+1770,2024-06-01,Bluetooth Speaker,Electronics,1,49.99,49.99,C258,Austin,PayPal
+1771,2024-02-04,Mechanical Keyboard,Electronics,4,79.99,319.96,C263,Austin,Debit Card
+1772,2024-05-25,Bluetooth Speaker,Electronics,1,49.99,49.99,C042,Los Angeles,PayPal
+1773,2024-05-04,Portable SSD 1TB,Electronics,2,89.99,179.98,C167,Chicago,Cash
+1774,2024-01-24,Mechanical Keyboard,Electronics,1,79.99,79.99,C188,Phoenix,PayPal
+1775,2024-01-19,Mechanical Keyboard,Electronics,2,79.99,159.98,C068,Seattle,PayPal
+1776,2024-04-11,Laptop Sleeve,Accessories,2,22.99,45.98,C042,Austin,PayPal
+1777,2024-06-15,Gaming Headset,Electronics,4,59.99,239.96,C109,Chicago,Credit Card
+1778,2024-02-05,Mechanical Keyboard,Electronics,2,79.99,159.98,C232,New York,Debit Card
+1779,2024-04-06,Charging Station,Accessories,1,29.99,29.99,C164,Chicago,PayPal
+1780,2024-03-13,USB-C Cable,Accessories,3,9.99,29.97,C136,Houston,Cash
+1781,2024-05-02,Wireless Mouse,Accessories,1,15.99,15.99,C070,Chicago,Cash
+1782,2024-01-13,Portable SSD 1TB,Electronics,1,89.99,89.99,C049,Phoenix,Credit Card
+1783,2024-05-09,Wireless Mouse,Accessories,4,15.99,63.96,C005,Phoenix,Credit Card
+1784,2024-01-27,Gaming Headset,Electronics,4,59.99,239.96,C160,Los Angeles,PayPal
+1785,2024-01-08,Mechanical Keyboard,Electronics,1,79.99,79.99,C230,New York,PayPal
+1786,2024-02-19,Portable SSD 1TB,Electronics,4,89.99,359.96,C067,Austin,PayPal
+1787,2024-02-13,Charging Station,Accessories,2,29.99,59.98,C058,Miami,Debit Card
+1788,2024-03-26,Bluetooth Speaker,Electronics,3,49.99,149.97,C130,Seattle,PayPal
+1789,2024-06-20,Portable SSD 1TB,Electronics,3,89.99,269.97,C258,Seattle,Credit Card
+1790,2024-02-04,Bluetooth Speaker,Electronics,2,49.99,99.98,C286,Los Angeles,Credit Card
+1791,2024-01-08,Portable SSD 1TB,Electronics,4,89.99,359.96,C150,Austin,Cash
+1792,2024-02-05,Wireless Mouse,Accessories,4,15.99,63.96,C287,Los Angeles,Cash
+1793,2024-02-24,Portable SSD 1TB,Electronics,3,89.99,269.97,C208,Austin,PayPal
+1794,2024-06-06,USB-C Cable,Accessories,2,9.99,19.98,C121,Los Angeles,Credit Card
+1795,2024-05-23,LED Desk Lamp,Home,3,34.99,104.97,C012,Los Angeles,Debit Card
+1796,2024-05-23,Charging Station,Accessories,1,29.99,29.99,C136,Phoenix,Debit Card
+1797,2024-01-03,Wireless Mouse,Accessories,4,15.99,63.96,C144,Seattle,Credit Card
+1798,2024-01-23,Laptop Sleeve,Accessories,2,22.99,45.98,C115,Los Angeles,Credit Card
+1799,2024-04-27,Gaming Headset,Electronics,4,59.99,239.96,C005,Austin,Cash
+1800,2024-04-13,Bluetooth Speaker,Electronics,4,49.99,199.96,C248,Chicago,Cash
+1801,2024-03-05,Wireless Mouse,Accessories,4,15.99,63.96,C121,Chicago,Cash
+1802,2024-05-28,Bluetooth Speaker,Electronics,2,49.99,99.98,C084,New York,Cash
+1803,2024-05-29,Webcam HD,Electronics,2,39.99,79.98,C231,Austin,PayPal
+1804,2024-06-09,Laptop Sleeve,Accessories,4,22.99,91.96,C272,New York,PayPal
+1805,2024-02-07,Wireless Mouse,Accessories,4,15.99,63.96,C226,Seattle,Cash
+1806,2024-05-21,Laptop Sleeve,Accessories,1,22.99,22.99,C292,Houston,PayPal
+1807,2024-05-30,Mechanical Keyboard,Electronics,1,79.99,79.99,C114,Seattle,Debit Card
+1808,2024-03-06,Mechanical Keyboard,Electronics,1,79.99,79.99,C258,Houston,PayPal
+1809,2024-03-15,Charging Station,Accessories,3,29.99,89.97,C180,Austin,PayPal
+1810,2024-05-30,Bluetooth Speaker,Electronics,2,49.99,99.98,C154,Seattle,Debit Card
+1811,2024-02-24,Wireless Mouse,Accessories,4,15.99,63.96,C262,Los Angeles,Debit Card
+1812,2024-05-29,USB-C Cable,Accessories,3,9.99,29.97,C143,Miami,PayPal
+1813,2024-02-29,LED Desk Lamp,Home,2,34.99,69.98,C101,Miami,Credit Card
+1814,2024-01-12,Mechanical Keyboard,Electronics,4,79.99,319.96,C239,Seattle,PayPal
+1815,2024-02-11,USB-C Cable,Accessories,1,9.99,9.99,C166,Chicago,Debit Card
+1816,2024-06-21,Wireless Mouse,Accessories,2,15.99,31.98,C291,Chicago,PayPal
+1817,2024-06-06,Mechanical Keyboard,Electronics,2,79.99,159.98,C134,Seattle,Credit Card
+1818,2024-03-20,Webcam HD,Electronics,3,39.99,119.97,C007,Houston,Cash
+1819,2024-01-14,USB-C Cable,Accessories,4,9.99,39.96,C073,Austin,Cash
+1820,2024-05-28,Gaming Headset,Electronics,3,59.99,179.97,C163,New York,Debit Card
+1821,2024-03-31,Wireless Mouse,Accessories,2,15.99,31.98,C130,Austin,PayPal
+1822,2024-01-20,LED Desk Lamp,Home,3,34.99,104.97,C256,New York,Cash
+1823,2024-01-25,Charging Station,Accessories,2,29.99,59.98,C281,New York,Debit Card
+1824,2024-02-23,Laptop Sleeve,Accessories,1,22.99,22.99,C289,Miami,Debit Card
+1825,2024-04-04,Webcam HD,Electronics,4,39.99,159.96,C270,Chicago,Credit Card
+1826,2024-04-19,Portable SSD 1TB,Electronics,1,89.99,89.99,C238,Chicago,PayPal
+1827,2024-06-28,USB-C Cable,Accessories,1,9.99,9.99,C025,Austin,Debit Card
+1828,2024-04-26,Wireless Mouse,Accessories,1,15.99,15.99,C025,Chicago,PayPal
+1829,2024-03-08,Portable SSD 1TB,Electronics,3,89.99,269.97,C173,New York,Debit Card
+1830,2024-01-12,Mechanical Keyboard,Electronics,4,79.99,319.96,C288,Phoenix,PayPal
+1831,2024-04-05,Charging Station,Accessories,4,29.99,119.96,C092,Miami,Debit Card
+1832,2024-01-31,Gaming Headset,Electronics,1,59.99,59.99,C020,New York,PayPal
+1833,2024-02-29,USB-C Cable,Accessories,2,9.99,19.98,C160,New York,PayPal
+1834,2024-02-12,USB-C Cable,Accessories,1,9.99,9.99,C254,Seattle,Credit Card
+1835,2024-02-29,Mechanical Keyboard,Electronics,2,79.99,159.98,C151,Austin,Debit Card
+1836,2024-01-31,Mechanical Keyboard,Electronics,3,79.99,239.97,C005,Houston,Cash
+1837,2024-06-10,Portable SSD 1TB,Electronics,3,89.99,269.97,C266,Seattle,Debit Card
+1838,2024-05-09,Laptop Sleeve,Accessories,1,22.99,22.99,C267,Miami,Credit Card
+1839,2024-06-07,Charging Station,Accessories,2,29.99,59.98,C056,Phoenix,PayPal
+1840,2024-03-23,Webcam HD,Electronics,3,39.99,119.97,C099,New York,Credit Card
+1841,2024-03-13,LED Desk Lamp,Home,1,34.99,34.99,C156,Los Angeles,PayPal
+1842,2024-04-24,Wireless Mouse,Accessories,2,15.99,31.98,C263,Seattle,PayPal
+1843,2024-05-23,Gaming Headset,Electronics,4,59.99,239.96,C252,Phoenix,PayPal
+1844,2024-01-04,Wireless Mouse,Accessories,1,15.99,15.99,C260,Los Angeles,PayPal
+1845,2024-02-09,Portable SSD 1TB,Electronics,3,89.99,269.97,C273,Houston,Debit Card
+1846,2024-04-12,Bluetooth Speaker,Electronics,1,49.99,49.99,C221,Los Angeles,Credit Card
+1847,2024-06-12,Webcam HD,Electronics,4,39.99,159.96,C124,Los Angeles,Cash
+1848,2024-06-26,Portable SSD 1TB,Electronics,2,89.99,179.98,C063,Phoenix,Credit Card
+1849,2024-04-25,Charging Station,Accessories,1,29.99,29.99,C191,Houston,PayPal
+1850,2024-01-07,USB-C Cable,Accessories,2,9.99,19.98,C155,Houston,PayPal
+1851,2024-01-14,Mechanical Keyboard,Electronics,4,79.99,319.96,C229,New York,PayPal
+1852,2024-03-26,USB-C Cable,Accessories,1,9.99,9.99,C133,Los Angeles,Debit Card
+1853,2024-05-09,Gaming Headset,Electronics,2,59.99,119.98,C062,Phoenix,Cash
+1854,2024-05-28,Charging Station,Accessories,3,29.99,89.97,C246,New York,PayPal
+1855,2024-03-19,Webcam HD,Electronics,2,39.99,79.98,C149,Austin,Cash
+1856,2024-02-27,Laptop Sleeve,Accessories,2,22.99,45.98,C065,Austin,Debit Card
+1857,2024-03-22,LED Desk Lamp,Home,1,34.99,34.99,C173,Seattle,Cash
+1858,2024-06-12,Webcam HD,Electronics,4,39.99,159.96,C188,Austin,Credit Card
+1859,2024-05-28,Webcam HD,Electronics,3,39.99,119.97,C256,Chicago,Credit Card
+1860,2024-04-26,Laptop Sleeve,Accessories,3,22.99,68.97,C282,Chicago,Debit Card
+1861,2024-02-03,Charging Station,Accessories,2,29.99,59.98,C052,Miami,Cash
+1862,2024-03-22,Portable SSD 1TB,Electronics,4,89.99,359.96,C232,Seattle,Debit Card
+1863,2024-06-28,Bluetooth Speaker,Electronics,3,49.99,149.97,C042,New York,Cash
+1864,2024-02-11,Bluetooth Speaker,Electronics,1,49.99,49.99,C113,Los Angeles,Credit Card
+1865,2024-01-17,Portable SSD 1TB,Electronics,1,89.99,89.99,C120,Los Angeles,Credit Card
+1866,2024-06-17,Mechanical Keyboard,Electronics,1,79.99,79.99,C129,Miami,Cash
+1867,2024-02-29,Wireless Mouse,Accessories,2,15.99,31.98,C048,Austin,Debit Card
+1868,2024-04-06,Bluetooth Speaker,Electronics,1,49.99,49.99,C010,Seattle,Debit Card
+1869,2024-02-27,Webcam HD,Electronics,2,39.99,79.98,C232,Los Angeles,PayPal
+1870,2024-01-28,USB-C Cable,Accessories,1,9.99,9.99,C203,New York,Cash
+1871,2024-02-03,Laptop Sleeve,Accessories,3,22.99,68.97,C264,Los Angeles,Debit Card
+1872,2024-06-25,LED Desk Lamp,Home,3,34.99,104.97,C079,New York,Debit Card
+1873,2024-03-27,Wireless Mouse,Accessories,1,15.99,15.99,C173,Seattle,Credit Card
+1874,2024-03-09,Portable SSD 1TB,Electronics,3,89.99,269.97,C087,Austin,Cash
+1875,2024-01-08,Portable SSD 1TB,Electronics,1,89.99,89.99,C200,Seattle,Credit Card
+1876,2024-03-27,Webcam HD,Electronics,1,39.99,39.99,C043,Seattle,Debit Card
+1877,2024-04-18,Laptop Sleeve,Accessories,1,22.99,22.99,C152,Phoenix,Cash
+1878,2024-05-12,Laptop Sleeve,Accessories,1,22.99,22.99,C148,Phoenix,PayPal
+1879,2024-02-27,Webcam HD,Electronics,1,39.99,39.99,C228,Chicago,Credit Card
+1880,2024-06-28,Bluetooth Speaker,Electronics,3,49.99,149.97,C211,Phoenix,PayPal
+1881,2024-01-28,Gaming Headset,Electronics,3,59.99,179.97,C051,Houston,Debit Card
+1882,2024-01-05,USB-C Cable,Accessories,3,9.99,29.97,C261,Phoenix,Credit Card
+1883,2024-04-05,Portable SSD 1TB,Electronics,2,89.99,179.98,C008,Los Angeles,Credit Card
+1884,2024-05-17,Portable SSD 1TB,Electronics,4,89.99,359.96,C038,New York,Cash
+1885,2024-04-21,Portable SSD 1TB,Electronics,3,89.99,269.97,C220,Phoenix,Credit Card
+1886,2024-05-15,Webcam HD,Electronics,1,39.99,39.99,C256,Chicago,PayPal
+1887,2024-06-01,Bluetooth Speaker,Electronics,4,49.99,199.96,C049,Los Angeles,Debit Card
+1888,2024-05-05,Charging Station,Accessories,4,29.99,119.96,C078,Los Angeles,Debit Card
+1889,2024-06-17,Bluetooth Speaker,Electronics,1,49.99,49.99,C217,New York,PayPal
+1890,2024-04-28,Portable SSD 1TB,Electronics,2,89.99,179.98,C190,Seattle,PayPal
+1891,2024-04-23,Charging Station,Accessories,3,29.99,89.97,C266,New York,Cash
+1892,2024-06-12,Portable SSD 1TB,Electronics,1,89.99,89.99,C140,New York,Credit Card
+1893,2024-01-02,Gaming Headset,Electronics,3,59.99,179.97,C269,New York,Debit Card
+1894,2024-06-08,Laptop Sleeve,Accessories,1,22.99,22.99,C288,Miami,Debit Card
+1895,2024-05-03,Charging Station,Accessories,4,29.99,119.96,C226,Austin,Cash
+1896,2024-01-10,LED Desk Lamp,Home,3,34.99,104.97,C271,Houston,Debit Card
+1897,2024-06-16,Charging Station,Accessories,1,29.99,29.99,C183,Seattle,Debit Card
+1898,2024-06-01,Gaming Headset,Electronics,1,59.99,59.99,C124,New York,Debit Card
+1899,2024-04-23,Mechanical Keyboard,Electronics,2,79.99,159.98,C278,Seattle,Cash
+1900,2024-06-06,LED Desk Lamp,Home,4,34.99,139.96,C213,New York,Credit Card
+1901,2024-02-01,Bluetooth Speaker,Electronics,4,49.99,199.96,C174,Miami,Cash
+1902,2024-04-29,Mechanical Keyboard,Electronics,1,79.99,79.99,C122,Seattle,PayPal
+1903,2024-04-28,USB-C Cable,Accessories,4,9.99,39.96,C039,Chicago,PayPal
+1904,2024-01-12,Portable SSD 1TB,Electronics,1,89.99,89.99,C233,Los Angeles,Credit Card
+1905,2024-01-18,Charging Station,Accessories,3,29.99,89.97,C149,New York,Cash
+1906,2024-05-28,Mechanical Keyboard,Electronics,1,79.99,79.99,C126,Phoenix,Debit Card
+1907,2024-02-15,Wireless Mouse,Accessories,4,15.99,63.96,C238,Chicago,Debit Card
+1908,2024-05-30,USB-C Cable,Accessories,3,9.99,29.97,C236,Houston,PayPal
+1909,2024-03-26,Portable SSD 1TB,Electronics,4,89.99,359.96,C150,Phoenix,Cash
+1910,2024-03-29,Portable SSD 1TB,Electronics,3,89.99,269.97,C022,Miami,PayPal
+1911,2024-01-29,Laptop Sleeve,Accessories,4,22.99,91.96,C269,Austin,Debit Card
+1912,2024-01-02,Laptop Sleeve,Accessories,2,22.99,45.98,C029,Phoenix,Debit Card
+1913,2024-06-28,Gaming Headset,Electronics,1,59.99,59.99,C283,Austin,Debit Card
+1914,2024-04-04,Wireless Mouse,Accessories,2,15.99,31.98,C088,Houston,Credit Card
+1915,2024-01-22,Laptop Sleeve,Accessories,4,22.99,91.96,C171,Los Angeles,Debit Card
+1916,2024-04-06,Portable SSD 1TB,Electronics,1,89.99,89.99,C184,Phoenix,Cash
+1917,2024-04-27,LED Desk Lamp,Home,3,34.99,104.97,C019,Austin,Debit Card
+1918,2024-06-05,LED Desk Lamp,Home,3,34.99,104.97,C030,Phoenix,Cash
+1919,2024-04-17,Wireless Mouse,Accessories,3,15.99,47.97,C281,Houston,Debit Card
+1920,2024-04-20,Laptop Sleeve,Accessories,4,22.99,91.96,C136,Miami,Cash
+1921,2024-05-23,Charging Station,Accessories,2,29.99,59.98,C072,Phoenix,PayPal
+1922,2024-04-17,Webcam HD,Electronics,1,39.99,39.99,C261,Phoenix,PayPal
+1923,2024-05-11,Portable SSD 1TB,Electronics,3,89.99,269.97,C104,Seattle,Credit Card
+1924,2024-03-04,USB-C Cable,Accessories,3,9.99,29.97,C010,Austin,Credit Card
+1925,2024-05-07,Mechanical Keyboard,Electronics,1,79.99,79.99,C231,Los Angeles,Cash
+1926,2024-06-03,Wireless Mouse,Accessories,3,15.99,47.97,C066,New York,Credit Card
+1927,2024-04-21,Webcam HD,Electronics,1,39.99,39.99,C013,New York,Credit Card
+1928,2024-06-12,Laptop Sleeve,Accessories,1,22.99,22.99,C086,Austin,Credit Card
+1929,2024-03-30,Bluetooth Speaker,Electronics,2,49.99,99.98,C054,Seattle,PayPal
+1930,2024-01-14,Wireless Mouse,Accessories,4,15.99,63.96,C121,Los Angeles,Cash
+1931,2024-04-30,Webcam HD,Electronics,2,39.99,79.98,C020,Los Angeles,PayPal
+1932,2024-05-23,Wireless Mouse,Accessories,3,15.99,47.97,C243,Los Angeles,PayPal
+1933,2024-03-10,Portable SSD 1TB,Electronics,3,89.99,269.97,C211,Austin,Credit Card
+1934,2024-05-11,Portable SSD 1TB,Electronics,1,89.99,89.99,C111,Phoenix,PayPal
+1935,2024-05-11,Gaming Headset,Electronics,1,59.99,59.99,C020,Seattle,Debit Card
+1936,2024-01-24,Laptop Sleeve,Accessories,2,22.99,45.98,C227,Houston,Cash
+1937,2024-02-06,Laptop Sleeve,Accessories,2,22.99,45.98,C230,Chicago,Debit Card
+1938,2024-02-23,USB-C Cable,Accessories,1,9.99,9.99,C202,Austin,PayPal
+1939,2024-06-22,Gaming Headset,Electronics,2,59.99,119.98,C260,Los Angeles,Debit Card
+1940,2024-02-26,Charging Station,Accessories,4,29.99,119.96,C020,Seattle,Debit Card
+1941,2024-04-28,Bluetooth Speaker,Electronics,1,49.99,49.99,C071,Seattle,Debit Card
+1942,2024-01-14,USB-C Cable,Accessories,4,9.99,39.96,C003,New York,Debit Card
+1943,2024-03-20,Laptop Sleeve,Accessories,4,22.99,91.96,C186,Los Angeles,PayPal
+1944,2024-05-11,Laptop Sleeve,Accessories,3,22.99,68.97,C254,Los Angeles,Debit Card
+1945,2024-06-10,Mechanical Keyboard,Electronics,4,79.99,319.96,C158,Austin,PayPal
+1946,2024-05-26,Webcam HD,Electronics,2,39.99,79.98,C159,New York,Cash
+1947,2024-02-29,Mechanical Keyboard,Electronics,4,79.99,319.96,C211,Chicago,Debit Card
+1948,2024-05-31,USB-C Cable,Accessories,2,9.99,19.98,C109,Chicago,Credit Card
+1949,2024-01-30,Bluetooth Speaker,Electronics,4,49.99,199.96,C117,Miami,PayPal
+1950,2024-04-09,Portable SSD 1TB,Electronics,3,89.99,269.97,C192,New York,PayPal
+1951,2024-06-24,Gaming Headset,Electronics,3,59.99,179.97,C173,Phoenix,PayPal
+1952,2024-04-03,Wireless Mouse,Accessories,4,15.99,63.96,C183,Seattle,PayPal
+1953,2024-05-25,LED Desk Lamp,Home,1,34.99,34.99,C116,New York,PayPal
+1954,2024-02-16,Gaming Headset,Electronics,1,59.99,59.99,C118,Los Angeles,Credit Card
+1955,2024-06-09,Mechanical Keyboard,Electronics,1,79.99,79.99,C198,Los Angeles,PayPal
+1956,2024-05-27,Bluetooth Speaker,Electronics,4,49.99,199.96,C240,New York,Cash
+1957,2024-05-22,Portable SSD 1TB,Electronics,3,89.99,269.97,C198,Miami,Debit Card
+1958,2024-03-18,LED Desk Lamp,Home,3,34.99,104.97,C124,Los Angeles,Debit Card
+1959,2024-04-12,Portable SSD 1TB,Electronics,3,89.99,269.97,C137,Austin,PayPal
+1960,2024-05-23,Gaming Headset,Electronics,2,59.99,119.98,C061,Houston,Debit Card
+1961,2024-02-19,USB-C Cable,Accessories,2,9.99,19.98,C259,Los Angeles,PayPal
+1962,2024-04-16,Bluetooth Speaker,Electronics,1,49.99,49.99,C113,Los Angeles,Credit Card
+1963,2024-04-27,Charging Station,Accessories,2,29.99,59.98,C198,Miami,Credit Card
+1964,2024-04-18,Mechanical Keyboard,Electronics,1,79.99,79.99,C051,Miami,Credit Card
+1965,2024-05-26,Laptop Sleeve,Accessories,1,22.99,22.99,C035,Seattle,Cash
+1966,2024-06-02,LED Desk Lamp,Home,2,34.99,69.98,C069,Chicago,Cash
+1967,2024-03-04,Charging Station,Accessories,1,29.99,29.99,C049,New York,PayPal
+1968,2024-03-14,Charging Station,Accessories,1,29.99,29.99,C192,Chicago,Cash
+1969,2024-04-09,Gaming Headset,Electronics,1,59.99,59.99,C070,Austin,PayPal
+1970,2024-01-04,Wireless Mouse,Accessories,2,15.99,31.98,C126,Austin,PayPal
+1971,2024-02-08,Laptop Sleeve,Accessories,3,22.99,68.97,C129,Houston,Credit Card
+1972,2024-02-26,USB-C Cable,Accessories,4,9.99,39.96,C100,Chicago,Cash
+1973,2024-02-10,Webcam HD,Electronics,2,39.99,79.98,C182,Houston,Credit Card
+1974,2024-02-29,Laptop Sleeve,Accessories,2,22.99,45.98,C188,New York,Debit Card
+1975,2024-01-31,Wireless Mouse,Accessories,1,15.99,15.99,C084,New York,Debit Card
+1976,2024-02-05,USB-C Cable,Accessories,4,9.99,39.96,C213,Houston,Cash
+1977,2024-05-31,Bluetooth Speaker,Electronics,2,49.99,99.98,C106,Miami,PayPal
+1978,2024-03-26,Laptop Sleeve,Accessories,2,22.99,45.98,C220,New York,Credit Card
+1979,2024-06-11,Wireless Mouse,Accessories,3,15.99,47.97,C220,Los Angeles,Debit Card
+1980,2024-04-29,LED Desk Lamp,Home,2,34.99,69.98,C182,Miami,Credit Card
+1981,2024-04-15,Mechanical Keyboard,Electronics,3,79.99,239.97,C217,Los Angeles,Cash
+1982,2024-03-10,Wireless Mouse,Accessories,1,15.99,15.99,C044,Houston,Cash
+1983,2024-02-14,Bluetooth Speaker,Electronics,1,49.99,49.99,C228,Los Angeles,Cash
+1984,2024-04-16,LED Desk Lamp,Home,4,34.99,139.96,C084,Seattle,Cash
+1985,2024-04-16,Mechanical Keyboard,Electronics,2,79.99,159.98,C021,Miami,Credit Card
+1986,2024-06-26,Laptop Sleeve,Accessories,4,22.99,91.96,C007,Seattle,Debit Card
+1987,2024-05-06,USB-C Cable,Accessories,2,9.99,19.98,C160,Seattle,Cash
+1988,2024-05-27,USB-C Cable,Accessories,4,9.99,39.96,C143,Phoenix,PayPal
+1989,2024-05-28,Mechanical Keyboard,Electronics,4,79.99,319.96,C154,Houston,PayPal
+1990,2024-04-29,Wireless Mouse,Accessories,4,15.99,63.96,C142,Chicago,PayPal
+1991,2024-06-13,Gaming Headset,Electronics,1,59.99,59.99,C021,Houston,Cash
+1992,2024-03-09,LED Desk Lamp,Home,2,34.99,69.98,C131,Seattle,PayPal
+1993,2024-06-13,USB-C Cable,Accessories,3,9.99,29.97,C161,New York,Debit Card
+1994,2024-04-26,Gaming Headset,Electronics,2,59.99,119.98,C196,Chicago,Cash
+1995,2024-03-11,Gaming Headset,Electronics,3,59.99,179.97,C086,Miami,Cash
+1996,2024-02-02,Mechanical Keyboard,Electronics,3,79.99,239.97,C081,Seattle,Credit Card
+1997,2024-03-01,Webcam HD,Electronics,4,39.99,159.96,C061,New York,Credit Card
+1998,2024-01-28,LED Desk Lamp,Home,2,34.99,69.98,C043,Austin,Debit Card
+1999,2024-06-15,Bluetooth Speaker,Electronics,1,49.99,49.99,C086,Houston,PayPal
